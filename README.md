@@ -18,10 +18,11 @@ I am a Kotlin Developer specialised in Mobile Applications <img src="https://med
 - :zap: In my free time, I solve problems on StackOverflow, play for games and read tech articles.
 
 
----
- ### :hammer_and_wrench: Languages and Tools :
+
 
 <!--
+---
+ ### :hammer_and_wrench: Languages and Tools :
 **trinadhthatakula/trinadhthatakula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
