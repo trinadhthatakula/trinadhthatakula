@@ -17,7 +17,6 @@ I am a Kotlin Developer specialised in Mobile Applications <img src="https://med
 
 - :zap: In my free time, I solve problems on StackOverflow, play for games and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-trinadh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trinadh-thatakula)
 
 ---
  ### :hammer_and_wrench: Languages and Tools :
