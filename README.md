@@ -15,7 +15,7 @@ I am a Kotlin Developer specialised in Mobile Applications <img src="https://med
 
 - :seedling: Exploring Technical Content Writing, Multi PLatform Development.
 
-- :zap: In my free time, I solve problems on StackOverflow, play for games and read tech articles.
+- :zap: In my free time, I solve problems on StackOverflow, play games and read tech articles.
 
 
 
