@@ -19,10 +19,25 @@ I am a Developer specialised in Mobile Applications <img src="https://media.giph
 
 ## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" /> GitHub Stats
 
+
+<div align="center">
+  <a href="https://github.com/trinadhthatakula" target="_blank">
+    <img src="https://badges.pufler.dev/visits/trinadhthatakula/trinadhthatakula?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter">
+  </a>
+  <a href="https://github.com/trinadhthatakula" target="_blank">
+    <img src="https://badges.pufler.dev/years/trinadhthatakula/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age">
+  </a>
+  <a href="https://github.com/trinadhthatakula/trinadhthatakula/commits/main" target="_blank">
+    <img src="https://badges.pufler.dev/updated/trinadhthatakula/trinadhthatakula?style=for-the-badge&color=f0f6f9&logo=github&label=Update">
+  </a>
+</div>
+
+<br/>
+
 <p align="center">
-<a href="https://github.com/jack-petrovic/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=trinadhthatakula&show_icons=true&theme=merko&rank_icon=github" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinadhthatakula&exclude_repo=play-integrity-checker-server,github-readme-stats,jack-petrovic.github.io&show_icons=true&theme=dracula&show_owner=true" />
+<a href="https://github.com/trinadhthatakula">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=trinadhthatakula&show_icons=true&theme=vision-friendly-dark&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinadhthatakula&show_icons=true&theme=vision-friendly-dark&show_owner=true" />
 </a>
 </p>
 
