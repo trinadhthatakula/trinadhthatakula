@@ -58,6 +58,9 @@ I am a Kotlin Developer specialised in Mobile Applications <img src="https://med
   </a>
 </p>
 
+
+## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" /> Contact
+You can reach me through [LinkedIn](https://www.linkedin.com/trinadhthatakula), [Email](mailto:trinadh.thatakula@gmail.com), or [Telegram](https://t.me/it_slipped_in).
 <!--
 ---
  ### :hammer_and_wrench: Languages and Tools :
