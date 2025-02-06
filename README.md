@@ -17,6 +17,27 @@ I am a Kotlin Developer specialised in Mobile Applications <img src="https://med
 
 - :zap: In my free time, I solve problems on StackOverflow, play games and read tech articles.
 
+## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" /> GitHub Stats
+
+<a href="https://github.com/jack-petrovic/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=trinadhthatakula&show_icons=true&theme=merko&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinadhthatakula&exclude_repo=play-integrity-checker-server,github-readme-stats,jack-petrovic.github.io&show_icons=true&theme=dracula&show_owner=true" />
+</a>
+
+## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" /> Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,js,androistudio,css,html,materialui,figma,react,nextjs,nuxtjs,flutter,nestjs,express,nodejs,mongodb,mysql,postgres,sqlite&perline=5" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,oracledb,sqlite" />
+  </a>
+</p>
 
 
 
