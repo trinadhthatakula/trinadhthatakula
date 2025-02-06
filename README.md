@@ -28,14 +28,7 @@ I am a Kotlin Developer specialised in Mobile Applications <img src="https://med
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,js,androistudio,css,html,materialui,figma,react,nextjs,nuxtjs,flutter,nestjs,express,nodejs,mongodb,mysql,postgres,sqlite&perline=5" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,oracledb,sqlite" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,js,css,html,materialui,figma,react,nextjs,nuxtjs,flutter,nestjs,express,nodejs,mongodb,mysql,postgres,sqlite&perline=5" />
   </a>
 </p>
 
