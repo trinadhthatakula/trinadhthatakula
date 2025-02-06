@@ -9,9 +9,9 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Kotlin Developer specialised in Mobile Applications <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Developer specialised in Mobile Applications <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m a freelancer also working as an Android Developer and contribute to frontend and backend for building mobile applications.
+- :telescope: I’m a freelancer working as an Android Developer, I also try to contribute towards Open Source community.
 
 - :seedling: Exploring Technical Content Writing, Multi PLatform Development.
 
@@ -19,10 +19,12 @@ I am a Kotlin Developer specialised in Mobile Applications <img src="https://med
 
 ## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" /> GitHub Stats
 
+<p align="center">
 <a href="https://github.com/jack-petrovic/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=trinadhthatakula&show_icons=true&theme=merko&rank_icon=github" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinadhthatakula&exclude_repo=play-integrity-checker-server,github-readme-stats,jack-petrovic.github.io&show_icons=true&theme=dracula&show_owner=true" />
 </a>
+</p>
 
 ## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" /> Languages and Tools
 
@@ -60,7 +62,7 @@ I am a Kotlin Developer specialised in Mobile Applications <img src="https://med
 
 
 ## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" /> Contact
-You can reach me through [LinkedIn](https://www.linkedin.com/trinadhthatakula), [Email](mailto:trinadh.thatakula@gmail.com), or [Telegram](https://t.me/it_slipped_in).
+📫 You can reach me through [LinkedIn](https://www.linkedin.com/trinadhthatakula), [Email](mailto:trinadh.thatakula@gmail.com), or [Telegram](https://t.me/it_slipped_in).
 <!--
 ---
  ### :hammer_and_wrench: Languages and Tools :
