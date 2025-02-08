@@ -1,6 +1,5 @@
 
-<p>
-<img src="https://raw.githubusercontent.com/trinadhthatakula/trinadhthatakula/refs/heads/main/github-metrics.svg" /></p>
+<p align="center"><img src="./github-metrics.svg" /></p>
 
 ### :woman_technologist: About Me :
 I am a Developer specialised in Mobile Applications <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
