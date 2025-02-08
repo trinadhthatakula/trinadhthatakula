@@ -23,7 +23,6 @@
 </a>
 </p>
 
-## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" /> Languages and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -64,7 +63,7 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🌱 My latest projects
+#### 🌱 My latest project
 {{range recentRepos 1}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
