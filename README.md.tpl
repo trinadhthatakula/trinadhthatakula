@@ -2,37 +2,6 @@
 <p align="center">
 <img src="./github-metrics.svg" /></p>
 
-### :woman_technologist: About Me :
-I am a Developer specialised in Mobile Applications <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-- :telescope: I’m a freelancer working as an Android Developer
-
-- :seedling: Exploring Technical Content Writing, Multi Platform Development.
-
-- :zap: I also solve problems on StackOverflow, play games & read tech articles.
-
-#### 👷 Check out what I'm currently working on
-{{range recentContributions 1}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
-#### 🌱 My latest projects
-{{range recentRepos 1}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
-#### 🔭 Latest releases I've contributed to
-{{range recentReleases 1}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
-
-#### ⭐ Recent Stars
-{{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
-
-## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" /> GitHub Stats
-
 <div align="center">
   <a href="https://github.com/trinadhthatakula" target="_blank">
     <img src="https://badges.pufler.dev/visits/trinadhthatakula/trinadhthatakula?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter">
@@ -87,6 +56,39 @@ I am a Developer specialised in Mobile Applications <img src="https://media.giph
     <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgres,sqlite" />
   </a>
 </p>
+
+<br/>
+
+#### 👷 Check out what I'm currently working on
+{{range recentContributions 1}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+#### 🌱 My latest projects
+{{range recentRepos 1}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
+
+#### 🔭 Latest releases I've contributed to
+{{range recentReleases 1}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+{{- end}}
+
+#### ⭐ Recent Stars
+{{range recentStars 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+{{- end}}
+
+
+### :woman_technologist: About Me :
+I am a Developer specialised in Mobile Applications <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- :telescope: I’m a freelancer working as an Android Developer
+
+- :seedling: Exploring Technical Content Writing, Multi Platform Development.
+
+- :zap: I also solve problems on StackOverflow, play games & read tech articles.
+
 
 ## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" /> Contact
 📫 You can reach me through [LinkedIn](https://www.linkedin.com/trinadhthatakula), [Email](mailto:trinadh.thatakula@gmail.com), or [Telegram](https://t.me/it_slipped_in).
