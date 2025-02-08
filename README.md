@@ -14,23 +14,10 @@ I am a Developer specialised in Mobile Applications <img src="https://media.giph
 #### 👷 Check out what I'm currently working on
 
 - [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 day ago)
-- [trinadhthatakula/AdventOfCodeKotlin2024](https://github.com/trinadhthatakula/AdventOfCodeKotlin2024) - Advent of code kotlin 2024 (2 months ago)
-- [trinadhthatakula/CallBlocker](https://github.com/trinadhthatakula/CallBlocker) - A Working call Blocker app for android, jetpack compose, backwards compatible, working with Android 14 too, Tested in Samsung s22 Ultra, Mi A3 and some other devices (2 months ago)
-- [trinadhthatakula/Extensions-kt](https://github.com/trinadhthatakula/Extensions-kt) - A repository for all extensions which I use on a daily basis (7 months ago)
-- [trinadhthatakula/ExpenseSplitter](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (11 months ago)
 
 #### 🌱 My latest projects
 
 - [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility
-- [trinadhthatakula/AdventOfCodeKotlin2024](https://github.com/trinadhthatakula/AdventOfCodeKotlin2024) - Advent of code kotlin 2024
-- [trinadhthatakula/ExpenseSplitter](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app
-- [trinadhthatakula/CallBlocker](https://github.com/trinadhthatakula/CallBlocker) - A Working call Blocker app for android, jetpack compose, backwards compatible, working with Android 14 too, Tested in Samsung s22 Ultra, Mi A3 and some other devices
-- [trinadhthatakula/StickerMaker](https://github.com/trinadhthatakula/StickerMaker) - Extract subject from a slefie/image as png 
-- [trinadhthatakula/template](https://github.com/trinadhthatakula/template) - 
-- [trinadhthatakula/portfolio](https://github.com/trinadhthatakula/portfolio) - 
-- [trinadhthatakula/Tester](https://github.com/trinadhthatakula/Tester) - A Sample project with a simple counter in compose multi platform added android and ios config
-- [trinadhthatakula/FamilyTracker](https://github.com/trinadhthatakula/FamilyTracker) - new project for sub
-- [trinadhthatakula/Localizer](https://github.com/trinadhthatakula/Localizer) - An Android Studio project to localize the app, Paste your source strings and translations in the assets and you will get generated string files in storage path will be displayed in the mobile
 
 #### 🔭 Latest releases I've contributed to
 
@@ -43,11 +30,6 @@ I am a Developer specialised in Mobile Applications <img src="https://media.giph
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (1 week ago)
 - [vvb2060/KeyAttestation](https://github.com/vvb2060/KeyAttestation) -  (2 weeks ago)
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android (2 weeks ago)
-- [ChrisTitusTech/powershell-profile](https://github.com/ChrisTitusTech/powershell-profile) - Pretty PowerShell that looks good and functions almost as good as Linux terminal  (2 weeks ago)
-- [5ec1cff/KernelSU](https://github.com/5ec1cff/KernelSU) - A Kernel based root solution for Android (1 month ago)
-- [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated (1 month ago)
-- [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border (2 months ago)
-- [cketti/kotlin-codepoints](https://github.com/cketti/kotlin-codepoints) - Kotlin Multiplatform (KMP) library that adds basic support for Unicode code points (2 months ago)
 
 ## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" /> GitHub Stats
 
