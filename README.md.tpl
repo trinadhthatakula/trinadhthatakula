@@ -12,22 +12,22 @@ I am a Developer specialised in Mobile Applications <img src="https://media.giph
 - :zap: I also solve problems on StackOverflow, play games & read tech articles.
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
+{{range recentContributions 1}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentRepos 10}}
+{{range recentRepos 1}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
+{{range recentReleases 1}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
 #### ⭐ Recent Stars
-{{range recentStars 10}}
+{{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
