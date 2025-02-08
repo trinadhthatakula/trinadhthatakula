@@ -38,7 +38,7 @@ jobs:
           # Options
           user: trinadhthatakula
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header
           config_timezone: Asia/Kolkata
           plugin_gists: no
           plugin_habits: yes

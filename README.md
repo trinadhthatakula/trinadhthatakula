@@ -5,11 +5,11 @@
 ### :woman_technologist: About Me :
 I am a Developer specialised in Mobile Applications <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m a freelancer working as an Android Developer, I also try to contribute towards Open Source community.
+- :telescope: I’m a freelancer working as an Android Developer
 
-- :seedling: Exploring Technical Content Writing, Multi PLatform Development.
+- :seedling: Exploring Technical Content Writing, Multi Platform Development.
 
-- :zap: In my free time, I solve problems on StackOverflow, play games and read tech articles.
+- :zap: I also solve problems on StackOverflow, play games & read tech articles.
 
 ## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" /> GitHub Stats
 
