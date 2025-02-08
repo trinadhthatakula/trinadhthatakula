@@ -12,7 +12,6 @@ I am a Developer specialised in Mobile Applications <img src="https://media.giph
 
 ## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" /> GitHub Stats
 
-
 <div align="center">
   <a href="https://github.com/trinadhthatakula" target="_blank">
     <img src="https://badges.pufler.dev/visits/trinadhthatakula/trinadhthatakula?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter">
