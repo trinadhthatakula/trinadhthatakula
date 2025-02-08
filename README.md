@@ -23,7 +23,6 @@
 </a>
 </p>
 
-## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" /> Languages and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -63,7 +62,7 @@
 
 - [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 day ago)
 
-#### 🌱 My latest projects
+#### 🌱 My latest project
 
 - [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility
 
