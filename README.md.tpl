@@ -1,12 +1,6 @@
-<h1 align="center">
-  Hello Stranger,
-  Welcome to my world
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<p>
+<img src="https://raw.githubusercontent.com/trinadhthatakula/trinadhthatakula/refs/heads/main/github-metrics.svg" /></p>
 
 ### :woman_technologist: About Me :
 I am a Developer specialised in Mobile Applications <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
