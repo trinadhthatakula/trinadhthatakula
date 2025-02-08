@@ -41,10 +41,10 @@ jobs:
           base: header
           config_timezone: Asia/Kolkata
           plugin_gists: no
-          plugin_habits: yes
+          plugin_habits: no
           plugin_habits_charts_type: classic
           plugin_habits_days: 15
-          plugin_habits_facts: yes
+          plugin_habits_facts: no
           plugin_habits_from: 200
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
