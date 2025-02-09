@@ -68,12 +68,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1313](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1313), 2 days ago) - Thor - Android App Manager and App Installer utility
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1313](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1313), 3 days ago) - Thor - Android App Manager and App Installer utility
 
 #### ⭐ Recent Stars
 
-- [Pixel-Props/BetterKnownInstalled](https://github.com/Pixel-Props/BetterKnownInstalled) - Patches packages to fix DroidGuard UNKNOWN_INSTALLED issues. (Magisk/KernelSU/APatch) (2 days ago)
-- [jack-petrovic/jack-petrovic](https://github.com/jack-petrovic/jack-petrovic) -  (2 days ago)
+- [Pixel-Props/BetterKnownInstalled](https://github.com/Pixel-Props/BetterKnownInstalled) - Patches packages to fix DroidGuard UNKNOWN_INSTALLED issues. (Magisk/KernelSU/APatch) (3 days ago)
+- [jack-petrovic/jack-petrovic](https://github.com/jack-petrovic/jack-petrovic) -  (3 days ago)
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (1 week ago)
 - [vvb2060/KeyAttestation](https://github.com/vvb2060/KeyAttestation) -  (2 weeks ago)
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android (2 weeks ago)
