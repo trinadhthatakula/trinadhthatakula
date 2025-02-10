@@ -79,6 +79,10 @@
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (1 week ago)
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=trinadhthatakula&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+
+
 ### :woman_technologist: About Me :
 I am a Developer specialised in Mobile Applications <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
