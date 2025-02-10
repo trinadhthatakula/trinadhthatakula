@@ -72,11 +72,11 @@
 
 #### ⭐ Recent Stars
 
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects. (today)
 - [reveny/Android-Native-Root-Detector](https://github.com/reveny/Android-Native-Root-Detector) - A tool for detecting root on android (today)
 - [Pixel-Props/BetterKnownInstalled](https://github.com/Pixel-Props/BetterKnownInstalled) - Patches packages to fix DroidGuard UNKNOWN_INSTALLED issues. (Magisk/KernelSU/APatch) (4 days ago)
 - [jack-petrovic/jack-petrovic](https://github.com/jack-petrovic/jack-petrovic) -  (4 days ago)
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (1 week ago)
-- [vvb2060/KeyAttestation](https://github.com/vvb2060/KeyAttestation) -  (2 weeks ago)
 
 
 ### :woman_technologist: About Me :
