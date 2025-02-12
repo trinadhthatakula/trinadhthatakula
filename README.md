@@ -72,11 +72,11 @@
 
 #### ⭐ Recent Stars
 
+- [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) -  (today)
 - [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android (2 days ago)
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects. (2 days ago)
 - [reveny/Android-Native-Root-Detector](https://github.com/reveny/Android-Native-Root-Detector) - A tool for detecting root on android (2 days ago)
 - [Pixel-Props/BetterKnownInstalled](https://github.com/Pixel-Props/BetterKnownInstalled) - Patches packages to fix DroidGuard UNKNOWN_INSTALLED issues. (Magisk/KernelSU/APatch) (6 days ago)
-- [jack-petrovic/jack-petrovic](https://github.com/jack-petrovic/jack-petrovic) -  (6 days ago)
 
 
 ## 🏆 GitHub Trophies
