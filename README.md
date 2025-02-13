@@ -68,15 +68,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1322](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1322), today) - Thor - Android App Manager and App Installer utility
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1322](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1322), 1 day ago) - Thor - Android App Manager and App Installer utility
 
 #### ⭐ Recent Stars
 
-- [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) -  (today)
-- [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android (2 days ago)
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects. (2 days ago)
-- [reveny/Android-Native-Root-Detector](https://github.com/reveny/Android-Native-Root-Detector) - A tool for detecting root on android (2 days ago)
-- [Pixel-Props/BetterKnownInstalled](https://github.com/Pixel-Props/BetterKnownInstalled) - Patches packages to fix DroidGuard UNKNOWN_INSTALLED issues. (Magisk/KernelSU/APatch) (6 days ago)
+- [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) -  (1 day ago)
+- [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android (3 days ago)
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects. (3 days ago)
+- [reveny/Android-Native-Root-Detector](https://github.com/reveny/Android-Native-Root-Detector) - A tool for detecting root on android (3 days ago)
+- [Pixel-Props/BetterKnownInstalled](https://github.com/Pixel-Props/BetterKnownInstalled) - Patches packages to fix DroidGuard UNKNOWN_INSTALLED issues. (Magisk/KernelSU/APatch) (1 week ago)
 
 
 ## 🏆 GitHub Trophies
