@@ -68,7 +68,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1326](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1326), today) - Thor - Android App Manager and App Installer utility
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1327](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1327), today) - Thor - Android App Manager and App Installer utility
 
 #### ⭐ Recent Stars
 
