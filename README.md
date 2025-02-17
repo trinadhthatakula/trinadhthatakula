@@ -60,7 +60,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (today)
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 day ago)
 
 #### 🌱 My latest project
 
@@ -68,14 +68,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1322](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1322), 4 days ago) - Thor - Android App Manager and App Installer utility
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1322](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1322), 5 days ago) - Thor - Android App Manager and App Installer utility
 
 #### ⭐ Recent Stars
 
-- [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) -  (4 days ago)
-- [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android (6 days ago)
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects. (6 days ago)
-- [reveny/Android-Native-Root-Detector](https://github.com/reveny/Android-Native-Root-Detector) - A tool for detecting root on android (6 days ago)
+- [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) -  (5 days ago)
+- [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android (1 week ago)
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects. (1 week ago)
+- [reveny/Android-Native-Root-Detector](https://github.com/reveny/Android-Native-Root-Detector) - A tool for detecting root on android (1 week ago)
 - [Pixel-Props/BetterKnownInstalled](https://github.com/Pixel-Props/BetterKnownInstalled) - Patches packages to fix DroidGuard UNKNOWN_INSTALLED issues. (Magisk/KernelSU/APatch) (1 week ago)
 
 
