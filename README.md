@@ -68,12 +68,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1330](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1330), today) - Thor - Android App Manager and App Installer utility
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1330](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1330), 1 day ago) - Thor - Android App Manager and App Installer utility
 
 #### ⭐ Recent Stars
 
-- [YunZiA/HyperStar](https://github.com/YunZiA/HyperStar) - 一个平平无奇的xp模块 (today)
-- [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) -  (5 days ago)
+- [YunZiA/HyperStar](https://github.com/YunZiA/HyperStar) - 一个平平无奇的xp模块 (1 day ago)
+- [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) -  (6 days ago)
 - [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android (1 week ago)
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects. (1 week ago)
 - [reveny/Android-Native-Root-Detector](https://github.com/reveny/Android-Native-Root-Detector) - A tool for detecting root on android (1 week ago)
