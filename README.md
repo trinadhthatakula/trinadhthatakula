@@ -60,7 +60,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 day ago)
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (2 days ago)
 
 #### 🌱 My latest project
 
@@ -68,12 +68,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1330](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1330), 2 days ago) - Thor - Android App Manager and App Installer utility
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1330](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1330), 3 days ago) - Thor - Android App Manager and App Installer utility
 
 #### ⭐ Recent Stars
 
-- [xzakota/XposedModuleMaker](https://github.com/xzakota/XposedModuleMaker) - 快速配置 Xposed 模块元信息 (today)
-- [YunZiA/HyperStar](https://github.com/YunZiA/HyperStar) - 一个平平无奇的xp模块 (2 days ago)
+- [xzakota/XposedModuleMaker](https://github.com/xzakota/XposedModuleMaker) - 快速配置 Xposed 模块元信息 (1 day ago)
+- [YunZiA/HyperStar](https://github.com/YunZiA/HyperStar) - 一个平平无奇的xp模块 (3 days ago)
 - [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) -  (1 week ago)
 - [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android (1 week ago)
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects. (1 week ago)
