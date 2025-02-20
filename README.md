@@ -60,11 +60,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (2 days ago)
+- [trinadhthatakula/SubscriptionTester](https://github.com/trinadhthatakula/SubscriptionTester) - Google In-App Subscription Helper (today)
 
 #### 🌱 My latest project
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility
+- [trinadhthatakula/SubscriptionTester](https://github.com/trinadhthatakula/SubscriptionTester) - Google In-App Subscription Helper
 
 #### 🔭 Latest releases I've contributed to
 
