@@ -72,11 +72,11 @@
 
 #### ⭐ Recent Stars
 
+- [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android (today)
 - [xzakota/XposedModuleMaker](https://github.com/xzakota/XposedModuleMaker) - 快速配置 Xposed 模块元信息 (2 days ago)
 - [YunZiA/HyperStar](https://github.com/YunZiA/HyperStar) - 一个平平无奇的xp模块 (4 days ago)
 - [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) -  (1 week ago)
 - [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android (1 week ago)
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects. (1 week ago)
 
 
 ## 🏆 GitHub Trophies
