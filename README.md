@@ -60,7 +60,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [trinadhthatakula/SubscriptionTester](https://github.com/trinadhthatakula/SubscriptionTester) - Google In-App Subscription Helper (1 day ago)
+- [trinadhthatakula/SubscriptionTester](https://github.com/trinadhthatakula/SubscriptionTester) - Google In-App Subscription Helper (today)
 
 #### 🌱 My latest project
 
