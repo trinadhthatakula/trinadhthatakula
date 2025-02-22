@@ -68,13 +68,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1350](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1350), today) - Thor - Android App Manager and App Installer utility
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1350](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1350), 1 day ago) - Thor - Android App Manager and App Installer utility
 
 #### ⭐ Recent Stars
 
-- [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android (today)
-- [xzakota/XposedModuleMaker](https://github.com/xzakota/XposedModuleMaker) - 快速配置 Xposed 模块元信息 (2 days ago)
-- [YunZiA/HyperStar](https://github.com/YunZiA/HyperStar) - 一个平平无奇的xp模块 (4 days ago)
+- [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android (1 day ago)
+- [xzakota/XposedModuleMaker](https://github.com/xzakota/XposedModuleMaker) - 快速配置 Xposed 模块元信息 (3 days ago)
+- [YunZiA/HyperStar](https://github.com/YunZiA/HyperStar) - 一个平平无奇的xp模块 (5 days ago)
 - [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) -  (1 week ago)
 - [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android (1 week ago)
 
