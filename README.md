@@ -60,10 +60,12 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App log grabber (today)
 - [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 day ago)
 
 #### 🌱 My latest project
 
+- [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App log grabber
 - [trinadhthatakula/SubscriptionTester](https://github.com/trinadhthatakula/SubscriptionTester) - Google In-App Subscription Helper
 
 #### 🔭 Latest releases I've contributed to
