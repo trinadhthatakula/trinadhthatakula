@@ -72,11 +72,11 @@
 
 #### ⭐ Recent Stars
 
+- [Xposed-Modules-Repo/com.bug.hookvip](https://github.com/Xposed-Modules-Repo/com.bug.hookvip) - Fuck for VIP (today)
 - [alexcmgit/kanade](https://github.com/alexcmgit/kanade) - Android app to extract apks from installed apps. (1 day ago)
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android (2 days ago)
 - [xzakota/XposedModuleMaker](https://github.com/xzakota/XposedModuleMaker) - 快速配置 Xposed 模块元信息 (4 days ago)
 - [YunZiA/HyperStar](https://github.com/YunZiA/HyperStar) - 一个平平无奇的xp模块 (6 days ago)
-- [google-ai-edge/mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) -  (1 week ago)
 
 
 ## 🏆 GitHub Trophies
