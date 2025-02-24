@@ -74,7 +74,7 @@
 {{- end}}
 
 #### ⭐ Recent Stars
-{{range recentStars 5}}
+{{range recentStars 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
