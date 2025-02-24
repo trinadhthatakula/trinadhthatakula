@@ -60,25 +60,25 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App log grabber (today)
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 day ago)
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (today)
+- [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App logger (today)
 
 #### 🌱 My latest project
 
-- [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App log grabber
+- [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
 - [trinadhthatakula/SubscriptionTester](https://github.com/trinadhthatakula/SubscriptionTester) - Google In-App Subscription Helper
 
 #### 🔭 Latest releases I've contributed to
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1350](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1350), 2 days ago) - Thor - Android App Manager and App Installer utility
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1350](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1350), 3 days ago) - Thor - Android App Manager and App Installer utility
 
 #### ⭐ Recent Stars
 
-- [Xposed-Modules-Repo/com.bug.hookvip](https://github.com/Xposed-Modules-Repo/com.bug.hookvip) - Fuck for VIP (today)
-- [alexcmgit/kanade](https://github.com/alexcmgit/kanade) - Android app to extract apks from installed apps. (1 day ago)
-- [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android (2 days ago)
-- [xzakota/XposedModuleMaker](https://github.com/xzakota/XposedModuleMaker) - 快速配置 Xposed 模块元信息 (4 days ago)
-- [YunZiA/HyperStar](https://github.com/YunZiA/HyperStar) - 一个平平无奇的xp模块 (6 days ago)
+- [Xposed-Modules-Repo/com.bug.hookvip](https://github.com/Xposed-Modules-Repo/com.bug.hookvip) - Fuck for VIP (1 day ago)
+- [alexcmgit/kanade](https://github.com/alexcmgit/kanade) - Android app to extract apks from installed apps. (2 days ago)
+- [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android (3 days ago)
+- [xzakota/XposedModuleMaker](https://github.com/xzakota/XposedModuleMaker) - 快速配置 Xposed 模块元信息 (5 days ago)
+- [YunZiA/HyperStar](https://github.com/YunZiA/HyperStar) - 一个平平无奇的xp模块 (1 week ago)
 
 
 ## 🏆 GitHub Trophies
