@@ -60,8 +60,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (today)
-- [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App logger (today)
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 day ago)
+- [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App logger (1 day ago)
 
 #### 🌱 My latest project
 
@@ -70,13 +70,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1351](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1351), today) - Thor - Android App Manager and App Installer utility
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1351](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1351), 1 day ago) - Thor - Android App Manager and App Installer utility
 
 #### ⭐ Recent Stars
 
-- [Xposed-Modules-Repo/com.bug.hookvip](https://github.com/Xposed-Modules-Repo/com.bug.hookvip) - Fuck for VIP (1 day ago)
-- [alexcmgit/kanade](https://github.com/alexcmgit/kanade) - Android app to extract apks from installed apps. (2 days ago)
-- [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android (3 days ago)
+- [Xposed-Modules-Repo/com.bug.hookvip](https://github.com/Xposed-Modules-Repo/com.bug.hookvip) - Fuck for VIP (2 days ago)
+- [alexcmgit/kanade](https://github.com/alexcmgit/kanade) - Android app to extract apks from installed apps. (3 days ago)
+- [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android (4 days ago)
 
 
 ## 🏆 GitHub Trophies
