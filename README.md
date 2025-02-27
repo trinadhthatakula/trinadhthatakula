@@ -60,8 +60,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (today)
-- [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App logger (2 days ago)
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 day ago)
+- [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App logger (3 days ago)
 
 #### 🌱 My latest project
 
@@ -70,13 +70,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1500](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1500), today) - Thor - Android App Manager and App Installer utility
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1500](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1500), 1 day ago) - Thor - Android App Manager and App Installer utility
 
 #### ⭐ Recent Stars
 
-- [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android (1 day ago)
-- [Xposed-Modules-Repo/com.bug.hookvip](https://github.com/Xposed-Modules-Repo/com.bug.hookvip) - Fuck for VIP (3 days ago)
-- [alexcmgit/kanade](https://github.com/alexcmgit/kanade) - Android app to extract apks from installed apps. (4 days ago)
+- [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android (2 days ago)
+- [Xposed-Modules-Repo/com.bug.hookvip](https://github.com/Xposed-Modules-Repo/com.bug.hookvip) - Fuck for VIP (4 days ago)
+- [alexcmgit/kanade](https://github.com/alexcmgit/kanade) - Android app to extract apks from installed apps. (5 days ago)
 
 
 ## 🏆 GitHub Trophies
