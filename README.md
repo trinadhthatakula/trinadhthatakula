@@ -60,7 +60,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (3 days ago)
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (4 days ago)
 - [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App logger (1 week ago)
 
 #### 🌱 My latest project
@@ -70,7 +70,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1500](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1500), 6 days ago) - Thor - Android App Manager and App Installer utility
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1500](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1500), 1 week ago) - Thor - Android App Manager and App Installer utility
 
 #### ⭐ Recent Stars
 
