@@ -60,7 +60,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (4 days ago)
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (5 days ago)
 - [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App logger (1 week ago)
 
 #### 🌱 My latest project
