@@ -60,7 +60,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (4 days ago)
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (5 days ago)
 - [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App logger (2 weeks ago)
 
 #### 🌱 My latest project
@@ -70,13 +70,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1501](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1501), 4 days ago) - Thor - Android App Manager and App Installer utility
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1501](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1501), 5 days ago) - Thor - Android App Manager and App Installer utility
 
 #### ⭐ Recent Stars
 
 - [Confuzu/CivitAI_Image_grabber](https://github.com/Confuzu/CivitAI_Image_grabber) - Downloads every Image from a given CivitAi Username / Model ID / Model TAG / Model versionID (1 week ago)
 - [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android (2 weeks ago)
-- [Xposed-Modules-Repo/com.bug.hookvip](https://github.com/Xposed-Modules-Repo/com.bug.hookvip) - Fuck for VIP (2 weeks ago)
+- [Xposed-Modules-Repo/com.bug.hookvip](https://github.com/Xposed-Modules-Repo/com.bug.hookvip) - Fuck for VIP (3 weeks ago)
 
 
 ## 🏆 GitHub Trophies
