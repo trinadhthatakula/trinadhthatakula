@@ -74,7 +74,7 @@
 
 #### ⭐ Recent Stars
 
-- [libxzr/HorizonKernelFlasher](https://github.com/libxzr/HorizonKernelFlasher) - A simple app that can flash AnyKernel flashable zips on android (1 day ago)
+- [libxzr/HorizonKernelFlasher](https://github.com/libxzr/HorizonKernelFlasher) - A simple app that can flash AnyKernel flashable zips on android (2 days ago)
 - [Confuzu/CivitAI_Image_grabber](https://github.com/Confuzu/CivitAI_Image_grabber) - Downloads every Image from a given CivitAi Username / Model ID / Model TAG / Model versionID (1 week ago)
 - [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android (3 weeks ago)
 
