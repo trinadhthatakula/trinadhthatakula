@@ -74,8 +74,8 @@
 
 #### ⭐ Recent Stars
 
-- [mishurov/fluid](https://github.com/mishurov/fluid) - A real time fluid simulation using OpenGL shaders (today)
-- [libxzr/HorizonKernelFlasher](https://github.com/libxzr/HorizonKernelFlasher) - A simple app that can flash AnyKernel flashable zips on android (4 days ago)
+- [mishurov/fluid](https://github.com/mishurov/fluid) - A real time fluid simulation using OpenGL shaders (1 day ago)
+- [libxzr/HorizonKernelFlasher](https://github.com/libxzr/HorizonKernelFlasher) - A simple app that can flash AnyKernel flashable zips on android (5 days ago)
 - [Confuzu/CivitAI_Image_grabber](https://github.com/Confuzu/CivitAI_Image_grabber) - Downloads every Image from a given CivitAi Username / Model ID / Model TAG / Model versionID (2 weeks ago)
 
 
