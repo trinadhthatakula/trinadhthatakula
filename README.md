@@ -61,7 +61,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 week ago)
-- [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App logger (3 weeks ago)
+- [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App logger (4 weeks ago)
 
 #### 🌱 My latest project
 
@@ -74,8 +74,8 @@
 
 #### ⭐ Recent Stars
 
-- [mishurov/fluid](https://github.com/mishurov/fluid) - A real time fluid simulation using OpenGL shaders (2 days ago)
-- [libxzr/HorizonKernelFlasher](https://github.com/libxzr/HorizonKernelFlasher) - A simple app that can flash AnyKernel flashable zips on android (6 days ago)
+- [mishurov/fluid](https://github.com/mishurov/fluid) - A real time fluid simulation using OpenGL shaders (3 days ago)
+- [libxzr/HorizonKernelFlasher](https://github.com/libxzr/HorizonKernelFlasher) - A simple app that can flash AnyKernel flashable zips on android (1 week ago)
 - [Confuzu/CivitAI_Image_grabber](https://github.com/Confuzu/CivitAI_Image_grabber) - Downloads every Image from a given CivitAi Username / Model ID / Model TAG / Model versionID (2 weeks ago)
 
 
