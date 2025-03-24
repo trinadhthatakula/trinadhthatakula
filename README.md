@@ -74,9 +74,9 @@
 
 #### ⭐ Recent Stars
 
+- [yassineAbou/LLMS](https://github.com/yassineAbou/LLMS) - Discover the power of AI with our Kotlin Multiplatform app. Choose from the latest open-source text and image models to boost your creativity. Pick the model that fits you, create unique texts or images, and keep everything safe and in sync across your devices. (today)
 - [mishurov/fluid](https://github.com/mishurov/fluid) - A real time fluid simulation using OpenGL shaders (3 days ago)
 - [libxzr/HorizonKernelFlasher](https://github.com/libxzr/HorizonKernelFlasher) - A simple app that can flash AnyKernel flashable zips on android (1 week ago)
-- [Confuzu/CivitAI_Image_grabber](https://github.com/Confuzu/CivitAI_Image_grabber) - Downloads every Image from a given CivitAi Username / Model ID / Model TAG / Model versionID (2 weeks ago)
 
 
 ## 🏆 GitHub Trophies
