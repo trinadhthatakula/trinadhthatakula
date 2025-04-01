@@ -60,7 +60,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (2 weeks ago)
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (3 weeks ago)
 - [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App logger (1 month ago)
 
 #### 🌱 My latest project
@@ -70,11 +70,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1501](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1501), 2 weeks ago) - Thor - Android App Manager and App Installer utility
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1501](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1501), 3 weeks ago) - Thor - Android App Manager and App Installer utility
 
 #### ⭐ Recent Stars
 
-- [panpf/sketch](https://github.com/panpf/sketch) - Sketch is an image loading library designed for Compose Multiplatform and Android View. It is powerful and rich in functions. In addition to basic functions, it also supports GIF, SVG, video thumbnails, Exif Orientation, etc. (2 days ago)
+- [panpf/sketch](https://github.com/panpf/sketch) - Sketch is an image loading library designed for Compose Multiplatform and Android View. It is powerful and rich in functions. In addition to basic functions, it also supports GIF, SVG, video thumbnails, Exif Orientation, etc. (3 days ago)
 - [yassineAbou/LLMS](https://github.com/yassineAbou/LLMS) - Discover the power of AI with our Kotlin Multiplatform app. Choose from the latest open-source text and image models to boost your creativity. Pick the model that fits you, create unique texts or images. (1 week ago)
 - [mishurov/fluid](https://github.com/mishurov/fluid) - A real time fluid simulation using OpenGL shaders (1 week ago)
 
