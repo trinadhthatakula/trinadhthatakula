@@ -76,7 +76,7 @@
 
 - [panpf/sketch](https://github.com/panpf/sketch) - Sketch is an image loading library designed for Compose Multiplatform and Android View. It is powerful and rich in functions. In addition to basic functions, it also supports GIF, SVG, video thumbnails, Exif Orientation, etc. (3 weeks ago)
 - [yassineAbou/LLMS](https://github.com/yassineAbou/LLMS) - Discover the power of AI with our Kotlin Multiplatform app. Choose from the latest open-source text and image models to boost your creativity. Pick the model that fits you, create unique texts or images. (3 weeks ago)
-- [mishurov/fluid](https://github.com/mishurov/fluid) - A real time fluid simulation using OpenGL shaders (4 weeks ago)
+- [mishurov/fluid](https://github.com/mishurov/fluid) - A real time fluid simulation using OpenGL shaders (1 month ago)
 
 
 ## 🏆 GitHub Trophies
