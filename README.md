@@ -74,9 +74,9 @@
 
 #### ⭐ Recent Stars
 
-- [canopas/compose-animations-examples](https://github.com/canopas/compose-animations-examples) - Android - Cool animations implemented with Jetpack compose (1 day ago)
+- [canopas/compose-animations-examples](https://github.com/canopas/compose-animations-examples) - Android - Cool animations implemented with Jetpack compose (2 days ago)
 - [panpf/sketch](https://github.com/panpf/sketch) - Sketch is an image loading library designed for Compose Multiplatform and Android View. It is powerful and rich in functions. In addition to basic functions, it also supports GIF, SVG, video thumbnails, Exif Orientation, etc. (3 weeks ago)
-- [yassineAbou/LLMS](https://github.com/yassineAbou/LLMS) - Discover the power of AI with our Kotlin Multiplatform app. Choose from the latest open-source text and image models to boost your creativity. Pick the model that fits you, create unique texts or images. (4 weeks ago)
+- [yassineAbou/LLMS](https://github.com/yassineAbou/LLMS) - Discover the power of AI with our Kotlin Multiplatform app. Choose from the latest open-source text and image models to boost your creativity. Pick the model that fits you, create unique texts or images. (1 month ago)
 
 
 ## 🏆 GitHub Trophies
