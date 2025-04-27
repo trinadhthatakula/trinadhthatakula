@@ -74,8 +74,8 @@
 
 #### ⭐ Recent Stars
 
-- [afreakyelf/Pdf-Viewer](https://github.com/afreakyelf/Pdf-Viewer) - A Lightweight PDF Viewer Android library which only occupies around 80kb while most of the Pdf viewer occupies up to 16MB space. (1 day ago)
-- [canopas/compose-animations-examples](https://github.com/canopas/compose-animations-examples) - Android - Cool animations implemented with Jetpack compose (5 days ago)
+- [afreakyelf/Pdf-Viewer](https://github.com/afreakyelf/Pdf-Viewer) - A Lightweight PDF Viewer Android library which only occupies around 80kb while most of the Pdf viewer occupies up to 16MB space. (2 days ago)
+- [canopas/compose-animations-examples](https://github.com/canopas/compose-animations-examples) - Android - Cool animations implemented with Jetpack compose (6 days ago)
 - [panpf/sketch](https://github.com/panpf/sketch) - Sketch is an image loading library designed for Compose Multiplatform and Android View. It is powerful and rich in functions. In addition to basic functions, it also supports GIF, SVG, video thumbnails, Exif Orientation, etc. (4 weeks ago)
 
 
