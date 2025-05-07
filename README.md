@@ -74,9 +74,9 @@
 
 #### ⭐ Recent Stars
 
+- [komikku-app/komikku](https://github.com/komikku-app/komikku) - Free and open source manga reader for Android (today)
 - [afreakyelf/Pdf-Viewer](https://github.com/afreakyelf/Pdf-Viewer) - A Lightweight PDF Viewer Android library which only occupies around 80kb while most of the Pdf viewer occupies up to 16MB space. (1 week ago)
 - [canopas/compose-animations-examples](https://github.com/canopas/compose-animations-examples) - Android - Cool animations implemented with Jetpack compose (2 weeks ago)
-- [panpf/sketch](https://github.com/panpf/sketch) - Sketch is an image loading library designed for Compose Multiplatform and Android View. It is powerful and rich in functions. In addition to basic functions, it also supports GIF, SVG, video thumbnails, Exif Orientation, etc. (1 month ago)
 
 
 ## 🏆 GitHub Trophies
