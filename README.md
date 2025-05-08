@@ -74,9 +74,9 @@
 
 #### ⭐ Recent Stars
 
+- [ComposeGears/Valkyrie](https://github.com/ComposeGears/Valkyrie) - SVG/XML to Compose ImageVector: IntelliJ IDEA / Android Studio plugin &#43; build-in previewer without compilation, CLI tool (today)
+- [alexzhirkevich/compottie](https://github.com/alexzhirkevich/compottie) - Compose Multiplatform library for rendering Lottie animations with custom pure Kotlin renderer (today)
 - [StefanOltmann/mines](https://github.com/StefanOltmann/mines) - Minesweeper-like puzzle game (today)
-- [mirzemehdi/KMPAuth](https://github.com/mirzemehdi/KMPAuth) - Kotlin Multiplatform Authentication Library targetting android and iOS  (today)
-- [komikku-app/komikku](https://github.com/komikku-app/komikku) - Free and open source manga reader for Android (1 day ago)
 
 
 ## 🏆 GitHub Trophies
