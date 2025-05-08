@@ -74,9 +74,9 @@
 
 #### ⭐ Recent Stars
 
+- [StefanOltmann/mines](https://github.com/StefanOltmann/mines) - Minesweeper-like puzzle game (today)
+- [mirzemehdi/KMPAuth](https://github.com/mirzemehdi/KMPAuth) - Kotlin Multiplatform Authentication Library targetting android and iOS  (today)
 - [komikku-app/komikku](https://github.com/komikku-app/komikku) - Free and open source manga reader for Android (1 day ago)
-- [afreakyelf/Pdf-Viewer](https://github.com/afreakyelf/Pdf-Viewer) - A Lightweight PDF Viewer Android library which only occupies around 80kb while most of the Pdf viewer occupies up to 16MB space. (1 week ago)
-- [canopas/compose-animations-examples](https://github.com/canopas/compose-animations-examples) - Android - Cool animations implemented with Jetpack compose (2 weeks ago)
 
 
 ## 🏆 GitHub Trophies
