@@ -62,11 +62,13 @@
 
 - [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (today)
 - [trinadhthatakula/hyd2tnm](https://github.com/trinadhthatakula/hyd2tnm) - A Short infographic on how to reach tiruvannamali from hyd (2 weeks ago)
+- [trinadhthatakula/poi-gen](https://github.com/trinadhthatakula/poi-gen) - Jar generator for Apache POI to be used in android (2 weeks ago)
 
 #### 🌱 My latest project
 
 - [trinadhthatakula/hyd2tnm](https://github.com/trinadhthatakula/hyd2tnm) - A Short infographic on how to reach tiruvannamali from hyd
 - [trinadhthatakula/poi-gen](https://github.com/trinadhthatakula/poi-gen) - Jar generator for Apache POI to be used in android
+- [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
 
 #### 🔭 Latest releases I've contributed to
 
