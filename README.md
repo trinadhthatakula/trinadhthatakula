@@ -60,24 +60,24 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (today)
+- [trinadhthatakula/Bolt](https://github.com/trinadhthatakula/Bolt) - Bolt - Kernel Flasher (today)
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 day ago)
 - [trinadhthatakula/hyd2tnm](https://github.com/trinadhthatakula/hyd2tnm) - A Short infographic on how to reach tiruvannamali from hyd (2 weeks ago)
-- [trinadhthatakula/poi-gen](https://github.com/trinadhthatakula/poi-gen) - Jar generator for Apache POI to be used in android (2 weeks ago)
 
 #### 🌱 My latest project
 
+- [trinadhthatakula/Bolt](https://github.com/trinadhthatakula/Bolt) - Bolt - Kernel Flasher
 - [trinadhthatakula/hyd2tnm](https://github.com/trinadhthatakula/hyd2tnm) - A Short infographic on how to reach tiruvannamali from hyd
 - [trinadhthatakula/poi-gen](https://github.com/trinadhthatakula/poi-gen) - Jar generator for Apache POI to be used in android
-- [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App logger
 
 #### 🔭 Latest releases I've contributed to
 
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1600](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1600), 1 day ago) - Thor - Android App Manager and App Installer utility
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1600](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1600), 2 days ago) - Thor - Android App Manager and App Installer utility
 
 #### ⭐ Recent Stars
 
-- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. (2 days ago)
-- [Mahmud0808/ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) - An Android app for customizing Material You colors on devices with Android 12&#43;. It lets you tweak accent colors, background saturation, and more for a personalized look. (2 days ago)
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. (3 days ago)
+- [Mahmud0808/ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) - An Android app for customizing Material You colors on devices with Android 12&#43;. It lets you tweak accent colors, background saturation, and more for a personalized look. (3 days ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. (1 week ago)
 
 
