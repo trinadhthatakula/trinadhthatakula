@@ -97,6 +97,6 @@ I am a Developer specialised in Mobile Applications <img src="https://media.giph
 
 
 ## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" /> Contact
-📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/trinadh-thatakula), [Email](mailto:trinadh.thatakula@gmail.com), or [Telegram](https://t.me/it_slipped_in).
+📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/trinadh-thatakula), [Email](mailto:trinadh.thatakula@gmail.com), or [Telegram](https://t.me/Dev3nadh).
 
 
