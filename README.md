@@ -72,6 +72,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [trinadhthatakula/Bolt](https://github.com/trinadhthatakula/Bolt) ([Bolt_v1.0](https://github.com/trinadhthatakula/Bolt/releases/tag/Bolt_v1.0), today) - Bolt - Kernel Flasher
 - [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1600](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1600), 2 days ago) - Thor - Android App Manager and App Installer utility
 
 #### ⭐ Recent Stars
