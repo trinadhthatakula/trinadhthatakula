@@ -93,6 +93,11 @@ I am a Developer specialised in Mobile Applications <img src="https://media.giph
 - :zap: I also solve problems on StackOverflow, play games & read tech articles.
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=trinadhthatakula&label=Profile%20views&color=0e75b6&style=flat" alt="trinadhthatakula" /> 
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/trinadhthatakula?label=Follow&style=social">
+</p>
+
 ## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" /> Contact
 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/trinadh-thatakula), [Email](mailto:trinadh.thatakula@gmail.com), or [Telegram](https://t.me/Dev3nadh).
 <!--
