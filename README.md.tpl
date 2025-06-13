@@ -1,4 +1,3 @@
-
 <p align="center">
 <img src="./github-metrics.svg" /></p>
 
@@ -14,101 +13,61 @@
   </a>
 </div>
 
-<br/>
+### 👋 About Me
+I'm an Android Developer specializing in mobile applications <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from India.
 
+- 🔭 Freelance Android Developer building robust mobile solutions  
+- 🌱 Exploring cross-platform development & technical writing  
+- ⚡ Fun fact: I automate my GitHub profile updates!  
+- 📚 Regularly contribute to StackOverflow and tech communities  
+
+## 📊 GitHub Stats
 <p align="center">
 <a href="https://github.com/trinadhthatakula">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=trinadhthatakula&show_icons=true&theme=vision-friendly-dark&rank_icon=github&include_all_commits=true&count_private=true" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinadhthatakula&show_icons=true&theme=vision-friendly-dark&show_owner=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=trinadhthatakula&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinadhthatakula&layout=compact&theme=transparent&show_owner=true" />
 </a>
 </p>
 
-
+## 🛠️ Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,js,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,js,ts,androidstudio,flutter" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,firebase,aws,gcp" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,figma,git,github" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,firebase,aws,gcp" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,materialui,figma,react" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,flutter,nestjs,express" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgres,sqlite" />
-  </a>
-</p>
-
-<br/>
-
-#### 👷 Check out what I'm currently working on
+## 👷 Current Projects
 {{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🌱 My latest project
+## 🌱 Recent Projects
 {{range recentRepos 3}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### 🔭 Latest releases I've contributed to
-{{range recentReleases 3}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
-
-#### ⭐ Recent Stars
-{{range recentStars 3}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=trinadhthatakula&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
-
-### :woman_technologist: About Me :
-I am a Developer specialised in Mobile Applications <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-- :telescope: I’m a freelancer working as an Android Developer
-
-- :seedling: Exploring Technical Content Writing, Multi Platform Development.
-
-- :zap: I also solve problems on StackOverflow, play games & read tech articles.
-
-
-## <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" /> Contact
-📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/trinadh-thatakula), [Email](mailto:trinadh.thatakula@gmail.com), or [Telegram](https://t.me/Dev3nadh).
-<!--
----
- ### :hammer_and_wrench: Languages and Tools :
-**trinadhthatakula/trinadhthatakula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+## 📬 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/trinadh-thatakula">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:trinadh.thatakula@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/Dev3nadh">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
