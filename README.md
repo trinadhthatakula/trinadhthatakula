@@ -1,5 +1,4 @@
-<p align="center">
-<img src="./github-metrics.svg" /></p>
+<p align="center"><img src="./github-metrics.svg" /></p>
 
 <div align="center">
   <a href="https://github.com/trinadhthatakula" target="_blank">
