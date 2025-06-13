@@ -60,8 +60,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [trinadhthatakula/Bolt](https://github.com/trinadhthatakula/Bolt) - Bolt - Kernel Flasher (2 days ago)
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (4 days ago)
+- [trinadhthatakula/Bolt](https://github.com/trinadhthatakula/Bolt) - Bolt - Kernel Flasher (3 days ago)
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (5 days ago)
 - [trinadhthatakula/hyd2tnm](https://github.com/trinadhthatakula/hyd2tnm) - A Short infographic on how to reach tiruvannamali from hyd (2 weeks ago)
 
 #### 🌱 My latest project
@@ -72,14 +72,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [trinadhthatakula/Bolt](https://github.com/trinadhthatakula/Bolt) ([Bolt_v1.0](https://github.com/trinadhthatakula/Bolt/releases/tag/Bolt_v1.0), 3 days ago) - Bolt - Kernel Flasher
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1600](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1600), 5 days ago) - Thor - Android App Manager and App Installer utility
+- [trinadhthatakula/Bolt](https://github.com/trinadhthatakula/Bolt) ([Bolt_v1.0](https://github.com/trinadhthatakula/Bolt/releases/tag/Bolt_v1.0), 4 days ago) - Bolt - Kernel Flasher
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) ([Thor_v1600](https://github.com/trinadhthatakula/Thor/releases/tag/Thor_v1600), 6 days ago) - Thor - Android App Manager and App Installer utility
 
 #### ⭐ Recent Stars
 
-- [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options (3 days ago)
-- [matan-h/Transfer](https://github.com/matan-h/Transfer) - A local file server Android app. Upload and download files over Wi-Fi  (3 days ago)
-- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. (6 days ago)
+- [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options (4 days ago)
+- [matan-h/Transfer](https://github.com/matan-h/Transfer) - A local file server Android app. Upload and download files over Wi-Fi  (4 days ago)
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. (1 week ago)
 
 
 ## 🏆 GitHub Trophies
