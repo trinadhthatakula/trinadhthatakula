@@ -70,4 +70,7 @@ I'm an Android Developer specializing in mobile applications <img src="https://m
   <a href="https://t.me/Dev3nadh">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+ <a href="https://github.com/sponsors/trinadhthatakula">
+    <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+  </a>
 </p>
