@@ -1,3 +1,4 @@
+<p align="center"><img src="./banners/banner_small.webp" /></p>
 <p align="center"><img src="./github-metrics.svg" /></p>
 
 <div align="center">
