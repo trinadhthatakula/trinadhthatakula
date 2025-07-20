@@ -48,9 +48,9 @@ I'm an Android Developer specializing in mobile applications <img src="https://m
 
 ## 👷 Current Projects
 
-- [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App logger (2 days ago)
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (6 days ago)
-- [trinadhthatakula/Bolt](https://github.com/trinadhthatakula/Bolt) - Bolt - Kernel Flasher (6 days ago)
+- [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App logger (3 days ago)
+- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 week ago)
+- [trinadhthatakula/Bolt](https://github.com/trinadhthatakula/Bolt) - Bolt - Kernel Flasher (1 week ago)
 
 ## 🌱 Recent Projects
 
