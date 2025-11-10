@@ -48,9 +48,9 @@ I'm an Android Developer specializing in mobile applications <img src="https://m
 
 ## 👷 Current Projects
 
-- [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App logger (1 day ago)
+- [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App logger (2 days ago)
 - [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 month ago)
-- [trinadhthatakula/Extensions-kt](https://github.com/trinadhthatakula/Extensions-kt) - A repository for all extensions which I use on a daily basis (2 months ago)
+- [trinadhthatakula/Extensions-kt](https://github.com/trinadhthatakula/Extensions-kt) - A repository for all extensions which I use on a daily basis (3 months ago)
 
 ## 🌱 Recent Projects
 
