@@ -44,6 +44,12 @@ I build cross-platform solutions with a focus on type safety, state management, 
 
 ---
 
+### 🚀 Flagship Production Apps
+
+| **Thor App Manager** |
+| :--- |
+| <img src="https://play-lh.googleusercontent.com/GaZSbaTLHawrg9g8mMee8a7uX0f1xtNcWsngREhBO0d505xlqIevzh2vySZHAVp_LvDo=w240-h480" width="80" align="left" style="margin-right: 15px" /> **The Ultimate App Management Tool.**<br>De-bloat, manage, and analyze installed applications with root-level precision.<br><br> [![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.valhalla.thor) |
+
 ### 🚀 Recent Projects
 {{range recentRepos 4}}
 - [**{{.Name}}**]({{.URL}}) - {{.Description}}
