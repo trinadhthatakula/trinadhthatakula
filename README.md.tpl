@@ -33,7 +33,7 @@ I don't just write code; I build systems. My current stack emphasizes **Modern A
 
 ### 📊 Engineering Metrics
 <div align="center">
-  <img src="./github-metrics.svg" alt="Metrics" width="100%" />
+  <img src="./github-metrics.svg" alt="Metrics" />
 </div>
 
 ---
