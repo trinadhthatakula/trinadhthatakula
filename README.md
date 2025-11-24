@@ -3,13 +3,13 @@
 
 <div align="center">
   <a href="https://github.com/trinadhthatakula" target="_blank">
-    <img src="https://badges.pufler.dev/visits/trinadhthatakula/trinadhthatakula?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter">
+    <img src="https://komarev.com/ghpvc/?username=trinadhthatakula&label=Spying+Counter&style=for-the-badge&color=e74c3c" alt="Spying Counter">
   </a>
   <a href="https://github.com/trinadhthatakula" target="_blank">
-    <img src="https://badges.pufler.dev/years/trinadhthatakula/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age">
+    <img src="https://img.shields.io/badge/Since-2016-27a4fb?style=for-the-badge&logo=github&label=Account+Age" alt="Account Age">
   </a>
   <a href="https://github.com/trinadhthatakula/trinadhthatakula/commits/main" target="_blank">
-    <img src="https://badges.pufler.dev/updated/trinadhthatakula/trinadhthatakula?style=for-the-badge&color=f0f6f9&logo=github&label=Update">
+    <img src="https://img.shields.io/github/last-commit/trinadhthatakula/trinadhthatakula?style=for-the-badge&color=f0f6f9&label=Update&logo=github" alt="Last Update">
   </a>
 </div>
 
