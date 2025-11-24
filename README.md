@@ -1,78 +1,59 @@
-<p align="center"><img src="./banners/banner_2_1.webp" /></p>
-<p align="center"><img src="./github-metrics.svg" /></p>
-
 <div align="center">
-  <a href="https://github.com/trinadhthatakula" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=trinadhthatakula&label=Spying+Counter&style=for-the-badge&color=e74c3c" alt="Spying Counter">
-  </a>
-  <a href="https://github.com/trinadhthatakula" target="_blank">
-    <img src="https://img.shields.io/badge/Since-2016-27a4fb?style=for-the-badge&logo=github&label=Account+Age" alt="Account Age">
-  </a>
-  <a href="https://github.com/trinadhthatakula/trinadhthatakula/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/trinadhthatakula/trinadhthatakula?style=for-the-badge&color=f0f6f9&label=Update&logo=github" alt="Last Update">
-  </a>
+  <img src="./banners/banner_2_1.webp" width="100%" alt="Banner" />
 </div>
 
-### 👋 About Me
-I'm an Android Developer specializing in mobile applications <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from India.
-
-- 🔭 Freelance Android Developer building robust mobile solutions  
-- 🌱 Exploring cross-platform development & technical writing  
-- ⚡ Fun fact: I automate my GitHub profile updates!  
-- 📚 Regularly contribute to StackOverflow and tech communities  
-
-## 📊 GitHub Stats
+<h1 align="center">Hi there, I'm Trinadh Thatakula 👋</h1>
 <p align="center">
-<a href="https://github.com/trinadhthatakula">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=trinadhthatakula&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinadhthatakula&layout=compact&theme=transparent&show_owner=true" />
-</a>
+  <b>Senior Android Engineer</b> specialized in building reactive, state-driven mobile applications.
 </p>
 
-## 🛠️ Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,js,ts,androidstudio,flutter" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,firebase,aws,gcp" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,figma,git,github" />
-  </a>
-</p>
-
-## 👷 Current Projects
-
-- [trinadhthatakula/Loki](https://github.com/trinadhthatakula/Loki) - Android App logger (4 days ago)
-- [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 month ago)
-- [trinadhthatakula/Extensions-kt](https://github.com/trinadhthatakula/Extensions-kt) - A repository for all extensions which I use on a daily basis (3 months ago)
-
-## 🌱 Recent Projects
-
-- [trinadhthatakula/Bolt](https://github.com/trinadhthatakula/Bolt) - Bolt - Kernel Flasher
-- [trinadhthatakula/hyd2tnm](https://github.com/trinadhthatakula/hyd2tnm) - A Short infographic on how to reach tiruvannamali from hyd
-- [trinadhthatakula/poi-gen](https://github.com/trinadhthatakula/poi-gen) - Jar generator for Apache POI to be used in android
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=trinadhthatakula&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
-## 📬 Let's Connect
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/trinadh-thatakula">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:trinadh.thatakula@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/Dev3nadh">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
- <a href="https://github.com/sponsors/trinadhthatakula">
-    <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+  <a href="mailto:trinadh.thatakula@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</div>
+
+---
+
+### 🛠️ Architectural Focus
+I don't just write code; I build systems. My current stack emphasizes **Modern Android Development (MAD)**:
+
+| Core | UI / UX | Architecture |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=kotlin,java" /> | <img src="https://skillicons.dev/icons?i=androidstudio,figma" /> | **MVVM / MVI** |
+| **Coroutines & Flow** | **Jetpack Compose** | **Koin (DI)** |
+
+---
+
+### 📊 Engineering Metrics
+<div align="center">
+  <img src="./github-metrics.svg" alt="Metrics" width="100%" />
+</div>
+
+---
+
+### 🚀 Recent Projects
+
+- [**trinadhthatakula/Bolt**](https://github.com/trinadhthatakula/Bolt) - Bolt - Kernel Flasher
+- [**trinadhthatakula/hyd2tnm**](https://github.com/trinadhthatakula/hyd2tnm) - A Short infographic on how to reach tiruvannamali from hyd
+- [**trinadhthatakula/poi-gen**](https://github.com/trinadhthatakula/poi-gen) - Jar generator for Apache POI to be used in android
+- [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger
+
+### 📝 Latest Activity
+
+- [**trinadhthatakula/Extensions-kt**](https://github.com/trinadhthatakula/Extensions-kt) - A repository for all extensions which I use on a daily basis (today)
+- [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (4 days ago)
+- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 month ago)
+- [**trinadhthatakula/Bolt**](https://github.com/trinadhthatakula/Bolt) - Bolt - Kernel Flasher (4 months ago)
+- [**trinadhthatakula/hyd2tnm**](https://github.com/trinadhthatakula/hyd2tnm) - A Short infographic on how to reach tiruvannamali from hyd (6 months ago)
+
+<div align="center">
+  <br/>
+  <sub><i>This profile updates automatically every 24h. Last update: &lt;nil&gt;</i></sub>
+</div>
