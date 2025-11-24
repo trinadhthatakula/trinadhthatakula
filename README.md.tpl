@@ -4,7 +4,9 @@
 
 <h1 align="center">Hi there, I'm Trinadh Thatakula 👋</h1>
 <p align="center">
-  <b>Senior Android Engineer</b> specialized in building reactive, state-driven mobile applications.
+  <b>Senior Mobile Engineer</b> building scalable <b>Android & Cross-Platform (CMP)</b> systems. 
+<br/>
+Focused on AI-augmented workflows and declarative UI architectures.
 </p>
 
 <div align="center">
@@ -21,13 +23,14 @@
 
 ---
 
-### 🛠️ Architectural Focus
-I don't just write code; I build systems. My current stack emphasizes **Modern Android Development (MAD)**:
+### 🛠️ The Arsenal
+I build cross-platform solutions with a focus on type safety, state management, and AI integration.
 
-| Core | UI / UX | Architecture |
+| **Core & Multiplatform** | **Architecture & State** | **AI & Tooling** |
 | :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=kotlin,java" /> | <img src="https://skillicons.dev/icons?i=androidstudio,figma" /> | **MVVM / MVI** |
-| **Coroutines & Flow** | **Jetpack Compose** | **Koin (DI)** |
+| <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,apple" /> | <img src="https://skillicons.dev/icons?i=figma,gradle,git" /> | <img src="https://skillicons.dev/icons?i=tensorflow,github,idea" /> |
+| **Compose Multiplatform** | **MVVM / MVI** | **AI-Augmented Workflow** |
+| **Kotlin Coroutines** | **Koin (DI)** | **CI/CD Automation** |
 
 ---
 
@@ -50,5 +53,5 @@ I don't just write code; I build systems. My current stack emphasizes **Modern A
 
 <div align="center">
   <br/>
-  <sub><i>This profile updates automatically every 24h. Last update: {{humanize .Timestamp}}</i></sub>
+<sub><i>This profile updates automatically every 24h. Last update: {{humanize .Timestamp}}</i></sub>
 </div>
