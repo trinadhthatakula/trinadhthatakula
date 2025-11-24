@@ -1,55 +1,67 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
+name: Update Profile
+
 on:
-  # Schedule updates (every 3 hours)
-  schedule: [{cron: "0 */3 * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  # Schedule: Runs once daily at 22:30 UTC (which is 04:00 AM IST)
+  schedule:
+    - cron: "30 22 * * *"
+  # Allows manual run from the Actions tab
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+
 jobs:
-  github-metrics:
+  update-profile:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    concurrency:
-      group: metrics-update
-      cancel-in-progress: true
-    steps:
-      - name: Cache dependencies
-        uses: actions/cache@v3
-        with:
-          path: ~/.cache
-          key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
-      - uses: lowlighter/metrics@latest
-        with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          #  - read:user
-          #  - read:org
-          #  - repo
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.GH_PAT }}
 
-          # Options
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # ----------------------------------------------------------
+      # Step 1: Generate the Visual Metrics (SVG)
+      # ----------------------------------------------------------
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_PAT }}
+          filename: github-metrics.svg
+          # We disable the commit here to batch it later
+          output_action: none 
+          committer_token: ${{ secrets.GH_PAT }}
+          
+          # Configuration
           user: trinadhthatakula
           template: classic
-          base: header
+          base: header, activity, community, repositories
           config_timezone: Asia/Kolkata
-          plugin_gists: no
-          plugin_habits: no
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 15
-          plugin_habits_facts: no
-          plugin_habits_from: 200
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          
+          # Plugins to make it look "Senior"
           plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
           plugin_traffic: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year # Full year is too tall
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, shell # Ignore noise
+          plugin_languages_details: lines, percentage
+
+      # ----------------------------------------------------------
+      # Step 2: Generate the Text Content (README.md)
+      # ----------------------------------------------------------
+      - name: Generate README with Scribe
+        uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+        with:
+          template: "README.md.tpl"
+          writeTo: "README.md"
+
+      # ----------------------------------------------------------
+      # Step 3: Single Commit for Everything
+      # ----------------------------------------------------------
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: daily profile update"
+          file_pattern: "README.md github-metrics.svg"
+          skip_dirty_check: false    
+          skip_fetch: true
