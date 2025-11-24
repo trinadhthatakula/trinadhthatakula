@@ -45,7 +45,7 @@ I don't just write code; I build systems. My current stack emphasizes **Modern A
 
 ### 📝 Latest Activity
 {{range recentContributions 5}}
-- {{.Repo.Name}}: {{.Title}} ({{humanize .CreatedAt}})
+- [**{{.Repo.Name}}**]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 <div align="center">
