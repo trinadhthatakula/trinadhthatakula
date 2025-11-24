@@ -10,6 +10,9 @@ Focused on AI-augmented workflows and declarative UI architectures.
 </p>
 
 <div align="center">
+  <a href="https://play.google.com/store/apps/dev?id=6282482026481379520" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Publisher" />
+  </a>
   <a href="https://www.linkedin.com/in/trinadh-thatakula">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
