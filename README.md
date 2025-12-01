@@ -62,7 +62,7 @@ I build cross-platform solutions with a focus on type safety, state management, 
 
 ### 📝 Latest Activity
 
-- [**trinadhthatakula/Extensions-kt**](https://github.com/trinadhthatakula/Extensions-kt) - A repository for all extensions which I use on a daily basis (6 days ago)
+- [**trinadhthatakula/Extensions-kt**](https://github.com/trinadhthatakula/Extensions-kt) - A repository for all extensions which I use on a daily basis (1 week ago)
 - [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (1 week ago)
 - [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 month ago)
 - [**trinadhthatakula/Bolt**](https://github.com/trinadhthatakula/Bolt) - Bolt - Kernel Flasher (4 months ago)
