@@ -62,11 +62,11 @@ I build cross-platform solutions with a focus on type safety, state management, 
 
 ### 📝 Latest Activity
 
+- [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (today)
+- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (today)
 - [**trinadhthatakula/Extensions-kt**](https://github.com/trinadhthatakula/Extensions-kt) - A repository for all extensions which I use on a daily basis (1 week ago)
-- [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (1 week ago)
 - [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (2 months ago)
 - [**trinadhthatakula/Bolt**](https://github.com/trinadhthatakula/Bolt) - Bolt - Kernel Flasher (4 months ago)
-- [**trinadhthatakula/hyd2tnm**](https://github.com/trinadhthatakula/hyd2tnm) - A Short infographic on how to reach tiruvannamali from hyd (6 months ago)
 
 <div align="center">
   <br/>
