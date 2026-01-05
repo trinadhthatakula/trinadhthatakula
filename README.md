@@ -62,10 +62,10 @@ I build cross-platform solutions with a focus on type safety, state management, 
 
 ### 📝 Latest Activity
 
-- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (3 days ago)
-- [**trinadhthatakula/SubscriptionTester**](https://github.com/trinadhthatakula/SubscriptionTester) - Google In-App Billing Helper (8.3.0) (6 days ago)
+- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (4 days ago)
+- [**trinadhthatakula/SubscriptionTester**](https://github.com/trinadhthatakula/SubscriptionTester) - Google In-App Billing Helper (8.3.0) (1 week ago)
 - [**trinadhthatakula/Extensions-kt**](https://github.com/trinadhthatakula/Extensions-kt) - A repository for all extensions which I use on a daily basis (1 week ago)
-- [**trinadhthatakula/Brokk**](https://github.com/trinadhthatakula/Brokk) - A FOSS Installer for APK, APK&#39;s and XAPK files. (1 week ago)
+- [**trinadhthatakula/Brokk**](https://github.com/trinadhthatakula/Brokk) - A FOSS Installer for APK, APK&#39;s and XAPK files. (2 weeks ago)
 - [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (2 weeks ago)
 
 <div align="center">
