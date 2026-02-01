@@ -62,8 +62,8 @@ I build cross-platform solutions with a focus on type safety, state management, 
 
 ### 📝 Latest Activity
 
-- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (4 days ago)
-- [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (4 days ago)
+- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (5 days ago)
+- [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (5 days ago)
 - [**trinadhthatakula/Freyr**](https://github.com/trinadhthatakula/Freyr) - A Clean Android FOSS for Weather and other related features (3 weeks ago)
 - [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 month ago)
 - [**trinadhthatakula/SubscriptionTester**](https://github.com/trinadhthatakula/SubscriptionTester) - Google In-App Billing Helper (8.3.0) (1 month ago)
