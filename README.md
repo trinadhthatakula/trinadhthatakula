@@ -10,6 +10,10 @@ Focused on AI-augmented workflows and declarative UI architectures.
 </p>
 
 <div align="center">
+  
+  <a href="https://www.trinadhthatakula.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://play.google.com/store/apps/dev?id=6282482026481379520" target="_blank">
     <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Publisher" />
   </a>
@@ -62,11 +66,11 @@ I build cross-platform solutions with a focus on type safety, state management, 
 
 ### 📝 Latest Activity
 
-- [**trinadhthatakula/AiImageGen**](https://github.com/trinadhthatakula/AiImageGen) - A production-grade Android application demonstrating Serverless GPU Inference integration. Features a robust Retry Policy for cold starts, Foreground Services for long-running generation, and Clean Architecture with Jetpack Compose &amp; Koin. Handles Text-to-Image (SDXL) and Image-to-Image pipelines via Hugging Face. (today)
-- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 day ago)
-- [**trinadhthatakula/portfolio**](https://github.com/trinadhthatakula/portfolio) -  (1 day ago)
-- [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (5 days ago)
-- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (5 days ago)
+- [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (today)
+- [**trinadhthatakula/AiImageGen**](https://github.com/trinadhthatakula/AiImageGen) - A production-grade Android application demonstrating Serverless GPU Inference integration. Features a robust Retry Policy for cold starts, Foreground Services for long-running generation, and Clean Architecture with Jetpack Compose &amp; Koin. Handles Text-to-Image (SDXL) and Image-to-Image pipelines via Hugging Face. (1 day ago)
+- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (2 days ago)
+- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (6 days ago)
+- [**trinadhthatakula/Freyr**](https://github.com/trinadhthatakula/Freyr) - A Clean Android FOSS for Weather and other related features (1 month ago)
 
 <div align="center">
   <br/>
