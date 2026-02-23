@@ -48,6 +48,27 @@ I build cross-platform solutions with a focus on type safety, state management, 
 
 ---
 
+<h3 align="center">💖 Support the Development</h3>
+<p align="center">
+  If my FOSS tools like <b>Thor</b> have helped you, consider buying me a coffee to keep the code flowing.
+</p>
+
+<div align="center">
+  <a href="https://www.patreon.com/trinadh" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Support on Patreon" />
+  </a>
+  &nbsp;
+  <a href="https://www.buymeacoffee.com/trinadh" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  &nbsp;
+  <a href="https://www.paypal.me/trinadhthatakula" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate via PayPal" />
+  </a>
+</div>
+
+---
+
 ### 🚀 Flagship Production Apps
 
 | **Thor App Manager** |
