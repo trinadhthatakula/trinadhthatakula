@@ -48,6 +48,27 @@ I build cross-platform solutions with a focus on type safety, state management, 
 
 ---
 
+<h3 align="center">💖 Support the Development</h3>
+<p align="center">
+  If my FOSS tools like <b>Thor</b> have helped you, consider buying me a coffee to keep the code flowing.
+</p>
+
+<div align="center">
+  <a href="https://www.patreon.com/trinadh" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Support on Patreon" />
+  </a>
+  &nbsp;
+  <a href="https://www.buymeacoffee.com/trinadh" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  &nbsp;
+  <a href="https://www.paypal.me/trinadhthatakula" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate via PayPal" />
+  </a>
+</div>
+
+---
+
 ### 🚀 Flagship Production Apps
 
 | **Thor App Manager** |
@@ -66,8 +87,8 @@ I build cross-platform solutions with a focus on type safety, state management, 
 
 ### 📝 Latest Activity
 
-- [**trinadhthatakula/AiImageGen**](https://github.com/trinadhthatakula/AiImageGen) - A production-grade Android application demonstrating Serverless GPU Inference integration. Features a robust Retry Policy for cold starts, Foreground Services for long-running generation, and Clean Architecture with Jetpack Compose &amp; Koin. Handles Text-to-Image (SDXL) and Image-to-Image pipelines via Hugging Face. (1 day ago)
-- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (5 days ago)
+- [**trinadhthatakula/AiImageGen**](https://github.com/trinadhthatakula/AiImageGen) - A production-grade Android application demonstrating Serverless GPU Inference integration. Features a robust Retry Policy for cold starts, Foreground Services for long-running generation, and Clean Architecture with Jetpack Compose &amp; Koin. Handles Text-to-Image (SDXL) and Image-to-Image pipelines via Hugging Face. (2 days ago)
+- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (6 days ago)
 - [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (1 week ago)
 - [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (2 weeks ago)
 - [**trinadhthatakula/Freyr**](https://github.com/trinadhthatakula/Freyr) - A Clean Android FOSS for Weather and other related features (1 month ago)
