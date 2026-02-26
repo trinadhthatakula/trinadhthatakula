@@ -87,11 +87,11 @@ I build cross-platform solutions with a focus on type safety, state management, 
 
 ### 📝 Latest Activity
 
-- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 day ago)
-- [**trinadhthatakula/.github**](https://github.com/trinadhthatakula/.github) -  (2 days ago)
-- [**trinadhthatakula/AiImageGen**](https://github.com/trinadhthatakula/AiImageGen) - A production-grade Android application demonstrating Serverless GPU Inference integration. Features a robust Retry Policy for cold starts, Foreground Services for long-running generation, and Clean Architecture with Jetpack Compose &amp; Koin. Handles Text-to-Image (SDXL) and Image-to-Image pipelines via Hugging Face. (4 days ago)
-- [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (1 week ago)
-- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (2 weeks ago)
+- [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (today)
+- [**trinadhthatakula/AiImageGen**](https://github.com/trinadhthatakula/AiImageGen) - A production-grade Android application demonstrating Serverless GPU Inference integration. Features a robust Retry Policy for cold starts, Foreground Services for long-running generation, and Clean Architecture with Jetpack Compose &amp; Koin. Handles Text-to-Image (SDXL) and Image-to-Image pipelines via Hugging Face. (today)
+- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (today)
+- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (2 days ago)
+- [**trinadhthatakula/.github**](https://github.com/trinadhthatakula/.github) -  (3 days ago)
 
 <div align="center">
   <br/>
