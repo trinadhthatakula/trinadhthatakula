@@ -80,18 +80,18 @@ I build cross-platform solutions with a focus on type safety, state management, 
   <img src="https://img.shields.io/badge/Project-VALHALLA-5D3F6A?style=for-the-badge&logo=linux&logoColor=white" alt="Valhalla FOSS" />
 </a>
 
+- [**trinadhthatakula/DeveloperPayloadTester**](https://github.com/trinadhthatakula/DeveloperPayloadTester) - A hyper-fast, offline-first Android utility app for developers. The primary functions are JSON formatting/validation, JWT decoding, Base64 encoding/decoding, and Regex testing. The app must serve as a secure, local-only alternative to web-based formatters.
 - [**trinadhthatakula/.github**](https://github.com/trinadhthatakula/.github) - 
 - [**trinadhthatakula/AiImageGen**](https://github.com/trinadhthatakula/AiImageGen) - A production-grade Android application demonstrating Serverless GPU Inference integration. Features a robust Retry Policy for cold starts, Foreground Services for long-running generation, and Clean Architecture with Jetpack Compose &amp; Koin. Handles Text-to-Image (SDXL) and Image-to-Image pipelines via Hugging Face.
 - [**trinadhthatakula/Freyr**](https://github.com/trinadhthatakula/Freyr) - A Clean Android FOSS for Weather and other related features
-- [**trinadhthatakula/Brokk**](https://github.com/trinadhthatakula/Brokk) - A FOSS Installer for APK, APK&#39;s and XAPK files.
 
 ### 📝 Latest Activity
 
-- [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (today)
-- [**trinadhthatakula/AiImageGen**](https://github.com/trinadhthatakula/AiImageGen) - A production-grade Android application demonstrating Serverless GPU Inference integration. Features a robust Retry Policy for cold starts, Foreground Services for long-running generation, and Clean Architecture with Jetpack Compose &amp; Koin. Handles Text-to-Image (SDXL) and Image-to-Image pipelines via Hugging Face. (today)
-- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (today)
-- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (2 days ago)
-- [**trinadhthatakula/.github**](https://github.com/trinadhthatakula/.github) -  (3 days ago)
+- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (today)
+- [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (1 day ago)
+- [**trinadhthatakula/AiImageGen**](https://github.com/trinadhthatakula/AiImageGen) - A production-grade Android application demonstrating Serverless GPU Inference integration. Features a robust Retry Policy for cold starts, Foreground Services for long-running generation, and Clean Architecture with Jetpack Compose &amp; Koin. Handles Text-to-Image (SDXL) and Image-to-Image pipelines via Hugging Face. (1 day ago)
+- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (1 day ago)
+- [**trinadhthatakula/.github**](https://github.com/trinadhthatakula/.github) -  (4 days ago)
 
 <div align="center">
   <br/>
