@@ -80,18 +80,18 @@ I build cross-platform solutions with a focus on type safety, state management, 
   <img src="https://img.shields.io/badge/Project-VALHALLA-5D3F6A?style=for-the-badge&logo=linux&logoColor=white" alt="Valhalla FOSS" />
 </a>
 
+- [**trinadhthatakula/AndroidAgenticWiki**](https://github.com/trinadhthatakula/AndroidAgenticWiki) - A Git-backed knowledge graph and Model Context Protocol (MCP) server for Android Studio. Equips AI agents with strict architectural rules, official Google skills, and an autonomous documentation ingestion pipeline to eliminate code hallucinations.
 - [**trinadhthatakula/design-prompt-generator**](https://github.com/trinadhthatakula/design-prompt-generator) - 
 - [**trinadhthatakula/DeveloperPayloadTester**](https://github.com/trinadhthatakula/DeveloperPayloadTester) - A hyper-fast, offline-first Android utility app for developers. The primary functions are JSON formatting/validation, JWT decoding, Base64 encoding/decoding, and Regex testing. The app must serve as a secure, local-only alternative to web-based formatters.
 - [**trinadhthatakula/.github**](https://github.com/trinadhthatakula/.github) - 
-- [**trinadhthatakula/AiImageGen**](https://github.com/trinadhthatakula/AiImageGen) - A production-grade Android application demonstrating Serverless GPU Inference integration. Features a robust Retry Policy for cold starts, Foreground Services for long-running generation, and Clean Architecture with Jetpack Compose &amp; Koin. Handles Text-to-Image (SDXL) and Image-to-Image pipelines via Hugging Face.
 
 ### 📝 Latest Activity
 
-- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (4 days ago)
-- [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (4 days ago)
+- [**trinadhthatakula/AndroidAgenticWiki**](https://github.com/trinadhthatakula/AndroidAgenticWiki) - A Git-backed knowledge graph and Model Context Protocol (MCP) server for Android Studio. Equips AI agents with strict architectural rules, official Google skills, and an autonomous documentation ingestion pipeline to eliminate code hallucinations. (today)
+- [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (today)
+- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (today)
 - [**trinadhthatakula/design-prompt-generator**](https://github.com/trinadhthatakula/design-prompt-generator) -  (1 week ago)
-- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 week ago)
-- [**trinadhthatakula/AiImageGen**](https://github.com/trinadhthatakula/AiImageGen) - A production-grade Android application demonstrating Serverless GPU Inference integration. Features a robust Retry Policy for cold starts, Foreground Services for long-running generation, and Clean Architecture with Jetpack Compose &amp; Koin. Handles Text-to-Image (SDXL) and Image-to-Image pipelines via Hugging Face. (2 months ago)
+- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (2 weeks ago)
 
 <div align="center">
   <br/>
