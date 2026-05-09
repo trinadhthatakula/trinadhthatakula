@@ -90,7 +90,7 @@ I build cross-platform solutions with a focus on type safety, state management, 
 - [**trinadhthatakula/AndroidAgenticWiki**](https://github.com/trinadhthatakula/AndroidAgenticWiki) - A Git-backed knowledge graph and Model Context Protocol (MCP) server for Android Studio. Equips AI agents with strict architectural rules, official Google skills, and an autonomous documentation ingestion pipeline to eliminate code hallucinations. (1 week ago)
 - [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (1 week ago)
 - [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (1 week ago)
-- [**trinadhthatakula/design-prompt-generator**](https://github.com/trinadhthatakula/design-prompt-generator) -  (2 weeks ago)
+- [**trinadhthatakula/design-prompt-generator**](https://github.com/trinadhthatakula/design-prompt-generator) -  (3 weeks ago)
 - [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (3 weeks ago)
 
 <div align="center">
