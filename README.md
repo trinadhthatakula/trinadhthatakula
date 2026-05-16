@@ -80,18 +80,18 @@ I build cross-platform solutions with a focus on type safety, state management, 
   <img src="https://img.shields.io/badge/Project-VALHALLA-5D3F6A?style=for-the-badge&logo=linux&logoColor=white" alt="Valhalla FOSS" />
 </a>
 
+- [**trinadhthatakula/yt-dlp-downloader**](https://github.com/trinadhthatakula/yt-dlp-downloader) - A Python app which gives UI to yt-dlp 
 - [**trinadhthatakula/AndroidAgenticWiki**](https://github.com/trinadhthatakula/AndroidAgenticWiki) - A Git-backed knowledge graph and Model Context Protocol (MCP) server for Android Studio. Equips AI agents with strict architectural rules, official Google skills, and an autonomous documentation ingestion pipeline to eliminate code hallucinations.
 - [**trinadhthatakula/design-prompt-generator**](https://github.com/trinadhthatakula/design-prompt-generator) - 
 - [**trinadhthatakula/DeveloperPayloadTester**](https://github.com/trinadhthatakula/DeveloperPayloadTester) - A hyper-fast, offline-first Android utility app for developers. The primary functions are JSON formatting/validation, JWT decoding, Base64 encoding/decoding, and Regex testing. The app must serve as a secure, local-only alternative to web-based formatters.
-- [**trinadhthatakula/.github**](https://github.com/trinadhthatakula/.github) - 
 
 ### 📝 Latest Activity
 
-- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (4 days ago)
+- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (today)
+- [**trinadhthatakula/yt-dlp-downloader**](https://github.com/trinadhthatakula/yt-dlp-downloader) - A Python app which gives UI to yt-dlp  (today)
 - [**trinadhthatakula/AndroidAgenticWiki**](https://github.com/trinadhthatakula/AndroidAgenticWiki) - A Git-backed knowledge graph and Model Context Protocol (MCP) server for Android Studio. Equips AI agents with strict architectural rules, official Google skills, and an autonomous documentation ingestion pipeline to eliminate code hallucinations. (2 weeks ago)
 - [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (2 weeks ago)
-- [**trinadhthatakula/design-prompt-generator**](https://github.com/trinadhthatakula/design-prompt-generator) -  (3 weeks ago)
-- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 month ago)
+- [**trinadhthatakula/design-prompt-generator**](https://github.com/trinadhthatakula/design-prompt-generator) -  (4 weeks ago)
 
 <div align="center">
   <br/>
