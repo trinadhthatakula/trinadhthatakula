@@ -87,7 +87,7 @@ I build cross-platform solutions with a focus on type safety, state management, 
 
 ### 📝 Latest Activity
 
-- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (6 days ago)
+- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 week ago)
 - [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (1 week ago)
 - [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (1 week ago)
 - [**trinadhthatakula/yt-dlpx**](https://github.com/trinadhthatakula/yt-dlpx) - A Python app which gives UI to yt-dlp  (3 weeks ago)
