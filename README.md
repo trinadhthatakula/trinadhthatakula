@@ -87,11 +87,11 @@ I build cross-platform solutions with a focus on type safety, state management, 
 
 ### 📝 Latest Activity
 
-- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (today)
-- [**trinadhthatakula/yt-dlpx**](https://github.com/trinadhthatakula/yt-dlpx) - A Python app which gives UI to yt-dlp  (2 days ago)
-- [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (3 days ago)
-- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (3 days ago)
-- [**trinadhthatakula/AndroidAgenticWiki**](https://github.com/trinadhthatakula/AndroidAgenticWiki) - A Git-backed knowledge graph and Model Context Protocol (MCP) server for Android Studio. Equips AI agents with strict architectural rules, official Google skills, and an autonomous documentation ingestion pipeline to eliminate code hallucinations. (1 month ago)
+- [**trinadhthatakula/Brokk**](https://github.com/trinadhthatakula/Brokk) - A FOSS Installer for APK, APK&#39;s and XAPK files. (today)
+- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 day ago)
+- [**trinadhthatakula/yt-dlpx**](https://github.com/trinadhthatakula/yt-dlpx) - A Python app which gives UI to yt-dlp  (3 days ago)
+- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (4 days ago)
+- [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (4 days ago)
 
 <div align="center">
   <br/>
