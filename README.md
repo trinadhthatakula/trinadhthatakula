@@ -80,18 +80,18 @@ I build cross-platform solutions with a focus on type safety, state management, 
   <img src="https://img.shields.io/badge/Project-VALHALLA-5D3F6A?style=for-the-badge&logo=linux&logoColor=white" alt="Valhalla FOSS" />
 </a>
 
+- [**trinadhthatakula/Thor-Extensions**](https://github.com/trinadhthatakula/Thor-Extensions) - Extensions for Thor
 - [**trinadhthatakula/thor-extension-template**](https://github.com/trinadhthatakula/thor-extension-template) - 
 - [**trinadhthatakula/yt-dlpx**](https://github.com/trinadhthatakula/yt-dlpx) - A Python app which gives UI to yt-dlp 
 - [**trinadhthatakula/AndroidAgenticWiki**](https://github.com/trinadhthatakula/AndroidAgenticWiki) - A Git-backed knowledge graph and Model Context Protocol (MCP) server for Android Studio. Equips AI agents with strict architectural rules, official Google skills, and an autonomous documentation ingestion pipeline to eliminate code hallucinations.
-- [**trinadhthatakula/design-prompt-generator**](https://github.com/trinadhthatakula/design-prompt-generator) - 
 
 ### 📝 Latest Activity
 
-- [**trinadhthatakula/thor-extension-template**](https://github.com/trinadhthatakula/thor-extension-template) -  (1 day ago)
-- [**trinadhthatakula/Brokk**](https://github.com/trinadhthatakula/Brokk) - A FOSS Installer for APK, APK&#39;s and XAPK files. (2 days ago)
-- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (2 days ago)
-- [**trinadhthatakula/yt-dlpx**](https://github.com/trinadhthatakula/yt-dlpx) - A Python app which gives UI to yt-dlp  (6 days ago)
-- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (1 week ago)
+- [**trinadhthatakula/Thor-Extensions**](https://github.com/trinadhthatakula/Thor-Extensions) - Extensions for Thor (today)
+- [**trinadhthatakula/thor-extension-template**](https://github.com/trinadhthatakula/thor-extension-template) -  (2 days ago)
+- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (3 days ago)
+- [**trinadhthatakula/Brokk**](https://github.com/trinadhthatakula/Brokk) - A FOSS Installer for APK, APK&#39;s and XAPK files. (3 days ago)
+- [**trinadhthatakula/yt-dlpx**](https://github.com/trinadhthatakula/yt-dlpx) - A Python app which gives UI to yt-dlp  (1 week ago)
 
 <div align="center">
   <br/>
