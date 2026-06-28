@@ -80,18 +80,18 @@ I build cross-platform solutions with a focus on type safety, state management, 
   <img src="https://img.shields.io/badge/Project-VALHALLA-5D3F6A?style=for-the-badge&logo=linux&logoColor=white" alt="Valhalla FOSS" />
 </a>
 
+- [**trinadhthatakula/Asgard**](https://github.com/trinadhthatakula/Asgard) - 
+- [**trinadhthatakula/Thor-extension-api**](https://github.com/trinadhthatakula/Thor-extension-api) - Thor Extensions API
 - [**trinadhthatakula/Thor-Extensions**](https://github.com/trinadhthatakula/Thor-Extensions) - Extensions for Thor
 - [**trinadhthatakula/thor-extension-template**](https://github.com/trinadhthatakula/thor-extension-template) - 
-- [**trinadhthatakula/yt-dlpx**](https://github.com/trinadhthatakula/yt-dlpx) - A Python app which gives UI to yt-dlp 
-- [**trinadhthatakula/AndroidAgenticWiki**](https://github.com/trinadhthatakula/AndroidAgenticWiki) - A Git-backed knowledge graph and Model Context Protocol (MCP) server for Android Studio. Equips AI agents with strict architectural rules, official Google skills, and an autonomous documentation ingestion pipeline to eliminate code hallucinations.
 
 ### 📝 Latest Activity
 
+- [**trinadhthatakula/Asgard**](https://github.com/trinadhthatakula/Asgard) -  (today)
 - [**trinadhthatakula/Thor-Extensions**](https://github.com/trinadhthatakula/Thor-Extensions) - Extensions for Thor (today)
-- [**trinadhthatakula/thor-extension-template**](https://github.com/trinadhthatakula/thor-extension-template) -  (2 days ago)
-- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (3 days ago)
-- [**trinadhthatakula/Brokk**](https://github.com/trinadhthatakula/Brokk) - A FOSS Installer for APK, APK&#39;s and XAPK files. (3 days ago)
-- [**trinadhthatakula/yt-dlpx**](https://github.com/trinadhthatakula/yt-dlpx) - A Python app which gives UI to yt-dlp  (1 week ago)
+- [**trinadhthatakula/Thor-extension-api**](https://github.com/trinadhthatakula/Thor-extension-api) - Thor Extensions API (today)
+- [**trinadhthatakula/thor-extension-template**](https://github.com/trinadhthatakula/thor-extension-template) -  (3 days ago)
+- [**trinadhthatakula/Brokk**](https://github.com/trinadhthatakula/Brokk) - A FOSS Installer for APK, APK&#39;s and XAPK files. (4 days ago)
 
 <div align="center">
   <br/>
