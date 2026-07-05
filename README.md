@@ -88,10 +88,10 @@ I build cross-platform solutions with a focus on type safety, state management, 
 ### 📝 Latest Activity
 
 - [**trinadhthatakula/Asgard**](https://github.com/trinadhthatakula/Asgard) -  (today)
-- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 day ago)
-- [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (2 days ago)
-- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (3 days ago)
-- [**trinadhthatakula/thor-extension-template**](https://github.com/trinadhthatakula/thor-extension-template) -  (5 days ago)
+- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (2 days ago)
+- [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (3 days ago)
+- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (4 days ago)
+- [**trinadhthatakula/thor-extension-template**](https://github.com/trinadhthatakula/thor-extension-template) -  (6 days ago)
 
 <div align="center">
   <br/>
