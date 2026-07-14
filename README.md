@@ -87,10 +87,10 @@ I build cross-platform solutions with a focus on type safety, state management, 
 
 ### 📝 Latest Activity
 
-- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (2 days ago)
-- [**trinadhthatakula/Thor-Extensions**](https://github.com/trinadhthatakula/Thor-Extensions) - Extensions for Thor (2 days ago)
-- [**trinadhthatakula/Thor-extension-api**](https://github.com/trinadhthatakula/Thor-extension-api) - Thor Extensions API (4 days ago)
-- [**trinadhthatakula/thor-extension-template**](https://github.com/trinadhthatakula/thor-extension-template) -  (4 days ago)
+- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (3 days ago)
+- [**trinadhthatakula/Thor-Extensions**](https://github.com/trinadhthatakula/Thor-Extensions) - Extensions for Thor (3 days ago)
+- [**trinadhthatakula/Thor-extension-api**](https://github.com/trinadhthatakula/Thor-extension-api) - Thor Extensions API (5 days ago)
+- [**trinadhthatakula/thor-extension-template**](https://github.com/trinadhthatakula/thor-extension-template) -  (5 days ago)
 - [**trinadhthatakula/Asgard**](https://github.com/trinadhthatakula/Asgard) -  (1 week ago)
 
 <div align="center">
