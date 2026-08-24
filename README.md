@@ -80,18 +80,18 @@ I build cross-platform solutions with a focus on type safety, state management, 
   <img src="https://img.shields.io/badge/Project-VALHALLA-5D3F6A?style=for-the-badge&logo=linux&logoColor=white" alt="Valhalla FOSS" />
 </a>
 
+- [**trinadhthatakula/TelegramDownloader**](https://github.com/trinadhthatakula/TelegramDownloader) - 
 - [**trinadhthatakula/Odin**](https://github.com/trinadhthatakula/Odin) - Kotlin-first root shell &#43; RootService IPC for Android (in-house libsu fork).
 - [**trinadhthatakula/Asgard**](https://github.com/trinadhthatakula/Asgard) - 
 - [**trinadhthatakula/Thor-extension-api**](https://github.com/trinadhthatakula/Thor-extension-api) - Thor Extensions API
-- [**trinadhthatakula/Thor-Extensions**](https://github.com/trinadhthatakula/Thor-Extensions) - Extensions for Thor
 
 ### 📝 Latest Activity
 
-- [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (1 day ago)
-- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 day ago)
-- [**trinadhthatakula/Odin**](https://github.com/trinadhthatakula/Odin) - Kotlin-first root shell &#43; RootService IPC for Android (in-house libsu fork). (1 week ago)
+- [**trinadhthatakula/Odin**](https://github.com/trinadhthatakula/Odin) - Kotlin-first root shell &#43; RootService IPC for Android (in-house libsu fork). (today)
+- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (today)
+- [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (2 days ago)
+- [**trinadhthatakula/TelegramDownloader**](https://github.com/trinadhthatakula/TelegramDownloader) -  (3 days ago)
 - [**trinadhthatakula/Thor-Extensions**](https://github.com/trinadhthatakula/Thor-Extensions) - Extensions for Thor (3 weeks ago)
-- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (1 month ago)
 
 <div align="center">
   <br/>
