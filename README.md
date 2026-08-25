@@ -88,9 +88,9 @@ I build cross-platform solutions with a focus on type safety, state management, 
 ### 📝 Latest Activity
 
 - [**trinadhthatakula/Odin**](https://github.com/trinadhthatakula/Odin) - Kotlin-first root shell &#43; RootService IPC for Android (in-house libsu fork). (today)
-- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (today)
-- [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (2 days ago)
-- [**trinadhthatakula/TelegramDownloader**](https://github.com/trinadhthatakula/TelegramDownloader) -  (3 days ago)
+- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 day ago)
+- [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (3 days ago)
+- [**trinadhthatakula/TelegramDownloader**](https://github.com/trinadhthatakula/TelegramDownloader) -  (4 days ago)
 - [**trinadhthatakula/Thor-Extensions**](https://github.com/trinadhthatakula/Thor-Extensions) - Extensions for Thor (3 weeks ago)
 
 <div align="center">
