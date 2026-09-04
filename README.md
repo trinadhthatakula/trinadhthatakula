@@ -87,10 +87,10 @@ I build cross-platform solutions with a focus on type safety, state management, 
 
 ### 📝 Latest Activity
 
-- [**trinadhthatakula/Odin**](https://github.com/trinadhthatakula/Odin) - Kotlin-first root shell &#43; RootService IPC for Android (in-house libsu fork). (1 day ago)
-- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (3 days ago)
+- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 day ago)
+- [**trinadhthatakula/Odin**](https://github.com/trinadhthatakula/Odin) - Kotlin-first root shell &#43; RootService IPC for Android (in-house libsu fork). (2 days ago)
+- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (4 days ago)
 - [**huanglizhuo/OctoCounts**](https://github.com/huanglizhuo/OctoCounts) - OctoCounts – the SLOC panel GitHub forgot (1 week ago)
-- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 week ago)
 - [**trinadhthatakula/Loki**](https://github.com/trinadhthatakula/Loki) - Android App logger (1 week ago)
 
 <div align="center">
