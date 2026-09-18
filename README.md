@@ -87,10 +87,10 @@ I build cross-platform solutions with a focus on type safety, state management, 
 
 ### 📝 Latest Activity
 
-- [**trinadhthatakula/Odin**](https://github.com/trinadhthatakula/Odin) - Kotlin-first root shell &#43; RootService IPC for Android (in-house libsu fork). (today)
-- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 day ago)
-- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (1 day ago)
-- [**KernelSU-Next/KernelSU-Next**](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android (5 days ago)
+- [**trinadhthatakula/Odin**](https://github.com/trinadhthatakula/Odin) - Kotlin-first root shell &#43; RootService IPC for Android (in-house libsu fork). (1 day ago)
+- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (2 days ago)
+- [**trinadhthatakula/ExpenseSplitter**](https://github.com/trinadhthatakula/ExpenseSplitter) - Expense Splitter - Kotlin JS Web Assembly app (2 days ago)
+- [**KernelSU-Next/KernelSU-Next**](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android (6 days ago)
 - [**trinadhthatakula/Asgard**](https://github.com/trinadhthatakula/Asgard) -  (1 week ago)
 
 <div align="center">
