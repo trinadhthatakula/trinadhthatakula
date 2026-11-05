@@ -80,18 +80,18 @@ I build cross-platform solutions with a focus on type safety, state management, 
   <img src="https://img.shields.io/badge/Project-VALHALLA-5D3F6A?style=for-the-badge&logo=linux&logoColor=white" alt="Valhalla FOSS" />
 </a>
 
+- [**trinadhthatakula/ProjectForge**](https://github.com/trinadhthatakula/ProjectForge) - Project discovery, kickoff planning, and specialist team orchestration skill
 - [**trinadhthatakula/TavernForge**](https://github.com/trinadhthatakula/TavernForge) - Offline-first Android companion for authoring and validating SillyTavern character cards and lorebooks.
 - [**trinadhthatakula/TelegramDownloader**](https://github.com/trinadhthatakula/TelegramDownloader) - 
 - [**trinadhthatakula/Odin**](https://github.com/trinadhthatakula/Odin) - Kotlin-first root shell &#43; RootService IPC for Android (in-house libsu fork).
-- [**trinadhthatakula/Asgard**](https://github.com/trinadhthatakula/Asgard) - 
 
 ### 📝 Latest Activity
 
-- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (3 days ago)
-- [**trinadhthatakula/TavernForge**](https://github.com/trinadhthatakula/TavernForge) - Offline-first Android companion for authoring and validating SillyTavern character cards and lorebooks. (3 days ago)
-- [**trinadhthatakula/Odin**](https://github.com/trinadhthatakula/Odin) - Kotlin-first root shell &#43; RootService IPC for Android (in-house libsu fork). (5 days ago)
-- [**trinadhthatakula/Bolt**](https://github.com/trinadhthatakula/Bolt) - Bolt - Kernel Flasher (1 week ago)
-- [**trinadhthatakula/TelegramDownloader**](https://github.com/trinadhthatakula/TelegramDownloader) -  (1 month ago)
+- [**trinadhthatakula/ProjectForge**](https://github.com/trinadhthatakula/ProjectForge) - Project discovery, kickoff planning, and specialist team orchestration skill (today)
+- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (4 days ago)
+- [**trinadhthatakula/TavernForge**](https://github.com/trinadhthatakula/TavernForge) - Offline-first Android companion for authoring and validating SillyTavern character cards and lorebooks. (4 days ago)
+- [**trinadhthatakula/Odin**](https://github.com/trinadhthatakula/Odin) - Kotlin-first root shell &#43; RootService IPC for Android (in-house libsu fork). (6 days ago)
+- [**trinadhthatakula/Bolt**](https://github.com/trinadhthatakula/Bolt) - Bolt - Kernel Flasher (2 weeks ago)
 
 <div align="center">
   <br/>
