@@ -87,11 +87,11 @@ I build cross-platform solutions with a focus on type safety, state management, 
 
 ### 📝 Latest Activity
 
-- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (2 days ago)
-- [**trinadhthatakula/Odin**](https://github.com/trinadhthatakula/Odin) - Kotlin-first root shell &#43; RootService IPC for Android (in-house libsu fork). (2 days ago)
-- [**trinadhthatakula/ProjectForge**](https://github.com/trinadhthatakula/ProjectForge) - Project discovery, kickoff planning, and specialist team orchestration skill (3 days ago)
+- [**trinadhthatakula/Asgard**](https://github.com/trinadhthatakula/Asgard) -  (today)
+- [**trinadhthatakula/Odin**](https://github.com/trinadhthatakula/Odin) - Kotlin-first root shell &#43; RootService IPC for Android (in-house libsu fork). (3 days ago)
+- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (3 days ago)
+- [**trinadhthatakula/ProjectForge**](https://github.com/trinadhthatakula/ProjectForge) - Project discovery, kickoff planning, and specialist team orchestration skill (4 days ago)
 - [**trinadhthatakula/TavernForge**](https://github.com/trinadhthatakula/TavernForge) - Offline-first Android companion for authoring and validating SillyTavern character cards and lorebooks. (1 week ago)
-- [**trinadhthatakula/Bolt**](https://github.com/trinadhthatakula/Bolt) - Bolt - Kernel Flasher (2 weeks ago)
 
 <div align="center">
   <br/>
