@@ -87,10 +87,10 @@ I build cross-platform solutions with a focus on type safety, state management, 
 
 ### 📝 Latest Activity
 
-- [**trinadhthatakula/Asgard**](https://github.com/trinadhthatakula/Asgard) -  (1 day ago)
-- [**trinadhthatakula/Odin**](https://github.com/trinadhthatakula/Odin) - Kotlin-first root shell &#43; RootService IPC for Android (in-house libsu fork). (5 days ago)
-- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (5 days ago)
-- [**trinadhthatakula/ProjectForge**](https://github.com/trinadhthatakula/ProjectForge) - Project discovery, kickoff planning, and specialist team orchestration skill (6 days ago)
+- [**trinadhthatakula/Odin**](https://github.com/trinadhthatakula/Odin) - Kotlin-first root shell &#43; RootService IPC for Android (in-house libsu fork). (1 day ago)
+- [**trinadhthatakula/Asgard**](https://github.com/trinadhthatakula/Asgard) -  (2 days ago)
+- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (6 days ago)
+- [**trinadhthatakula/ProjectForge**](https://github.com/trinadhthatakula/ProjectForge) - Project discovery, kickoff planning, and specialist team orchestration skill (1 week ago)
 - [**trinadhthatakula/TavernForge**](https://github.com/trinadhthatakula/TavernForge) - Offline-first Android companion for authoring and validating SillyTavern character cards and lorebooks. (1 week ago)
 
 <div align="center">
