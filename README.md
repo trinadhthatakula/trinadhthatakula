@@ -80,18 +80,18 @@ I build cross-platform solutions with a focus on type safety, state management, 
   <img src="https://img.shields.io/badge/Project-VALHALLA-5D3F6A?style=for-the-badge&logo=linux&logoColor=white" alt="Valhalla FOSS" />
 </a>
 
+- [**trinadhthatakula/keystore-validator**](https://github.com/trinadhthatakula/keystore-validator) - Inspect Android signing certificates and APK fingerprints locally in your browser.
 - [**trinadhthatakula/ProjectForge**](https://github.com/trinadhthatakula/ProjectForge) - Project discovery, kickoff planning, and specialist team orchestration skill
 - [**trinadhthatakula/TavernForge**](https://github.com/trinadhthatakula/TavernForge) - Offline-first Android companion for authoring and validating SillyTavern character cards and lorebooks.
 - [**trinadhthatakula/TelegramDownloader**](https://github.com/trinadhthatakula/TelegramDownloader) - 
-- [**trinadhthatakula/Odin**](https://github.com/trinadhthatakula/Odin) - Kotlin-first root shell &#43; RootService IPC for Android (in-house libsu fork).
 
 ### 📝 Latest Activity
 
-- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (1 day ago)
-- [**trinadhthatakula/Odin**](https://github.com/trinadhthatakula/Odin) - Kotlin-first root shell &#43; RootService IPC for Android (in-house libsu fork). (1 day ago)
-- [**trinadhthatakula/TelegramDownloader**](https://github.com/trinadhthatakula/TelegramDownloader) -  (4 days ago)
+- [**trinadhthatakula/keystore-validator**](https://github.com/trinadhthatakula/keystore-validator) - Inspect Android signing certificates and APK fingerprints locally in your browser. (today)
+- [**trinadhthatakula/Odin**](https://github.com/trinadhthatakula/Odin) - Kotlin-first root shell &#43; RootService IPC for Android (in-house libsu fork). (2 days ago)
+- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (2 days ago)
+- [**trinadhthatakula/TelegramDownloader**](https://github.com/trinadhthatakula/TelegramDownloader) -  (5 days ago)
 - [**trinadhthatakula/Asgard**](https://github.com/trinadhthatakula/Asgard) -  (1 week ago)
-- [**trinadhthatakula/ProjectForge**](https://github.com/trinadhthatakula/ProjectForge) - Project discovery, kickoff planning, and specialist team orchestration skill (2 weeks ago)
 
 <div align="center">
   <br/>
