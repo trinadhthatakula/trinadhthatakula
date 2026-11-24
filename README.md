@@ -87,10 +87,10 @@ I build cross-platform solutions with a focus on type safety, state management, 
 
 ### 📝 Latest Activity
 
-- [**trinadhthatakula/Asgard**](https://github.com/trinadhthatakula/Asgard) -  (1 day ago)
-- [**trinadhthatakula/keystore-validator**](https://github.com/trinadhthatakula/keystore-validator) - Inspect Android signing certificates and APK fingerprints locally in your browser. (3 days ago)
-- [**trinadhthatakula/Odin**](https://github.com/trinadhthatakula/Odin) - Kotlin-first root shell &#43; RootService IPC for Android (in-house libsu fork). (5 days ago)
-- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (5 days ago)
+- [**trinadhthatakula/Asgard**](https://github.com/trinadhthatakula/Asgard) -  (2 days ago)
+- [**trinadhthatakula/keystore-validator**](https://github.com/trinadhthatakula/keystore-validator) - Inspect Android signing certificates and APK fingerprints locally in your browser. (4 days ago)
+- [**trinadhthatakula/Odin**](https://github.com/trinadhthatakula/Odin) - Kotlin-first root shell &#43; RootService IPC for Android (in-house libsu fork). (6 days ago)
+- [**trinadhthatakula/Thor**](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility (6 days ago)
 - [**trinadhthatakula/TelegramDownloader**](https://github.com/trinadhthatakula/TelegramDownloader) -  (1 week ago)
 
 <div align="center">
